@@ -11,6 +11,7 @@ A few weeks ago I saw a _very_ interesting [Integration Monday](http://www.integ
 One thing that really stood out for me was how he utilised the [BizTalk Deployment Framework (BTDF)](https://biztalkdeployment.codeplex.com) BizTalk Application Description field.
 
 We also utilise BTDF and find it a very capable tool for automating the deployment for single BizTalk applications and their related artefacts. 
+ {% gist mattcorr/7edceb34e553ab4ae6f5 %}
 
 ## So why would we bother?
 If you frequently compile your BizTalk applications _(i.e. via automated builds for each check-in)_ it can be tricky to keep track of which version is deployed in which environment.
