@@ -1,6 +1,7 @@
 ---
 title:  "First Jekyll Blog Post!"
 header:
+  image: "/assets/images/2016/12/jekyll-header.jpg"
 categories: 
   - Jekyll
 tags:
@@ -8,17 +9,17 @@ tags:
 ---
 ## The past
 While I have previously used [Ghost](https://ghost.org) blogging engine which is certainly a great blogging engine to use, I found the limitations of hosting on Azure and the manual updating process a bit too combersome and time consuming for my liking.
-One solution was to have [Ghost host it](https://ghost.org/pricing/) for me, but the $19USD (which is about $28AUD) cost per month seems a bit excessive for me, as I am not a heavy blogger.
+One solution was to have [Ghost host](https://ghost.org/pricing/) it for me, but the $19USD (which is about $28AUD) cost per month seems a bit excessive for me, as I am not a heavy blogger.
 
 ## Where to from here?
 I asked around and there seemed to be a fair bit of love for the [Jekyll](https://jekyllrb.com) + [GitHub Pages](https://pages.github.com) approach to personal blog hosting.
 I [looked into it further](https://jekyllrb.com/docs/quickstart/) and it certainly seems intriguing.
 
 ## New Theme
-The default Minim theme that comes with Jekyll is functional, but pretty basic and I felt I needed something more.
+The default Minima theme that comes with Jekyll is functional, but pretty basic and I felt I needed something more.
 I stumbled across the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/) and found that really suitable! Well worth checking out!
 
-The one tip I have though, is to create a clone of the Minimal Mistakes repository and go from there. I seemed to have the most success with that approach!
+The one tip I have though, if you are starting out like me, is to create a clone of the Minimal Mistakes repository and go from there. I seemed to have the most success with that approach!
 {: .notice--success}
 
 ## What editor?

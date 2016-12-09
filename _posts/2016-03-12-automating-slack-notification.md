@@ -1,6 +1,8 @@
 ---
 title:  "Using Azure Automation & PowerShell for Slack channel notifications"
 header:
+    image: "/assets/images/2016/03/header01.jpg"
+    caption: "Able Tasman Hike, New Zealand, 2008"
 categories: 
   - Automation
 tags:
