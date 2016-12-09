@@ -13,7 +13,7 @@ name                     : "Matt Corr"
 description              : "Consultant with Mexia. Doing all things related to BizTalk, Azure, PowerShell, Devops, Octopus Deploy, Confluence and now blogging!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mattcorr/mattcorr.github.io"
+repository               : "mattcorr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,23 +78,23 @@ analytics:
 # Site Author
 author:
   name             : "Matt Corr"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Tall, Hearing Impaired, juggling work and home!"
+  avatar           : "/assets/images/bioshot.png"
+  bio              : "Tall, Hearing Impaired, Integration developer & passionate about automation!"
   location         : "Brisbane, Australia"
   email            : "matt.corr@gmail.com"
-  uri              :
+  uri              : "https://www.intrepidintegration.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "mattcorr"
   foursquare       :
-  github           :
+  github           : "mattcorr"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "mattcorr"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
