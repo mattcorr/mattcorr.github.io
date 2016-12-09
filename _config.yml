@@ -11,7 +11,7 @@ title                    : "Intrepid Integration"
 title_separator          : "-"
 name                     : "Matt Corr"
 description              : "Consultant with Mexia. Doing all things related to BizTalk, Azure, PowerShell, Devops, Octopus Deploy, Confluence and now blogging!"
-url                      : "http://www.intrepidintegration.com
+url                      : "https://www.intrepidintegration.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mattcorr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
