@@ -18,9 +18,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "intrepidintegration"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google"  # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-56713184-1"
 
 
 # Site Author
@@ -82,7 +82,7 @@ author:
   bio              : "Tall, Hearing Impaired, Integration developer & passionate about automation!"
   location         : "Brisbane, Australia"
   email            : "matt.corr@gmail.com"
-  uri              : "https://www.intrepidintegration.com"
+  uri              : "http://www.intrepidintegration.com"
   bitbucket        :
   codepen          :
   dribbble         :
