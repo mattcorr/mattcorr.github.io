@@ -20,7 +20,7 @@ Feel free to use this in your environment and let me know if there are improveme
 
 <script src="https://gist.github.com/mattcorr/7d5ec29cf8ab420cb95b.js"></script>
 
-DISCLAIMER: Use this script at your own risk. While it is highly unlikely this will break anything, if it does I can not be held responsible.
+DISCLAIMER: Use this script at your own risk. While it is highly unlikely this will break anything, if it does I can not be held responsible!
 {: .notice--danger}
 
 
