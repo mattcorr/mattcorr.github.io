@@ -1,5 +1,5 @@
 ---
-title:  "How to get PowerShell OneGet working with no Internet access"
+title:  "How to get PowerShellGet working with no Internet access"
 header:
   image: "/assets/images/2017/02/powershellnuget-header.jpg"
   caption: "Castlepoint, New Zealand"
