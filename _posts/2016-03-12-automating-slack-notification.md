@@ -11,7 +11,6 @@ tags:
   - azure
   - automation
 ---
-{% include toc %}
 There are plenty of great [Slack apps](https://slack.com/apps) that exist already.
 
 But you are after an integration with a system that does not have an app or an existing app does not work just quite right for you, thankfully there is an easy way to write your own.
