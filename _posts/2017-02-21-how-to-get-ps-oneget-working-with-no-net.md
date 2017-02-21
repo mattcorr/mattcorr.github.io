@@ -63,21 +63,19 @@ So if we copy that DLL over to the VM without internet access, and store it in t
 {: .notice--danger}
 
 ## Time for Take Two
-Now when we run the command to register the PS repository:
+With the DLL in place and ISE restarted, lets run the command again to register the PowerShell repository:
 
 ![](/assets/images/2017/02/2017-02-21_22-17-38.png)
-It still seems to give an error! **This can be ignored!** If we run the command `Get-PSRepository` we can see it was correctly registered.
+It still seems to give an error! **This can be ignored!** 
+If we run the command `Get-PSRepository` we can see it was correctly registered.
 
 ![](/assets/images/2017/02/2017-02-21_22-18-29.png)
 
-Now we can install modules from the local repository with no issues.
+Now we can install modules from the local repository with no issues. Awesome!
 
-**TIP:** If you want to find out what modules are available use:
-```powershell
-Find-Module -Repository <name of local repository>
-```
+**TIP:** If you want to find out what modules are available on any repository, enter `Find-Module -Repository <name of local repository>`
 
 ![](/assets/images/2017/02/2017-02-21_22-19-12.png)
 
-This was the only way I was able to get this to work. If there is a better way, please let me know!
+This was the only way I was able to get this to work on servers with no Internet access. If there is a better way, please let me know!
 {: .notice--warning}
