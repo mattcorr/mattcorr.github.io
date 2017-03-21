@@ -137,7 +137,9 @@ In hindsight, I was seriously worried about what would have happened if I didn�
 The photos below show Fem and myself just when we arrived at the hut. The middle photo is our landing zone at the John Coull hut.
 
 ![Me when we first arrived at the hut ](/assets/images/2008/09/p9140020-resize.jpg)
+
 ![Where we docked the boat ](/assets/images/2008/09/img-0670-resize.jpg)
+
 ![Fem when she first arrived](/assets/images/2008/09/p9140021-resize.jpg)
 
 We were the only ones at the hut. We opened the barrels and to our shock, 3 of the 5 barrels had water leakage. The barrel that I had cut loose contained my sleeping bag. At this point of time I didn’t care too much about the lost bag. I was glad we were out of the water and at the hut. Also if I had a choice of which barrel to “sacrifice” that would have been it. The two barrels that had remained dry contained our shoes and the food, my hearing aids, camera, wallet and matches. I was so happy my hearing aids were ok!
@@ -163,6 +165,7 @@ Fem has a sleep mid afternoon while I read some of the magazines that were left 
 About two hours later, three Israeli Russians enter the hut. Michael, Kesnia and Boris. They kayaked our first leg of the river that day. Again they were shocked to hear of our story. They were experienced sea-kayakers and on the day we set off, they had been denied entry on the river on the Sunday by other canoeing companies. They had only been allowed on the river that day due to their previous kayaking experience.
 
 ![The view around the fireplace in the hut](/assets/images/2008/09/img-0663-resize.jpg)
+
 ![Us with the Israelis](/assets/images/2008/09/p9160059-resize.jpg)
 
 By late afternoon, most of our clothes have been flame dried. So we are much more warmly clothed than the previous night. The rest of the day is spent resting, chatting with the new arrivals, playing travel-scrabble (wet but functional), reading magazines or keeping the fire going.
@@ -178,6 +181,7 @@ The two pig hunters had returned the previous night and were camping in swags ou
 We said farewell to the Israelis at about 10:30am. Then it was a slow process of waiting until we were rescued. Did the hunters get the message out in time? Will we be picked up today or tomorrow? I tell Fem that if they are not here by 5pm, it will be too dark and we won’t get rescued until the following day.
 
 ![Fem waiting on day 3](/assets/images/2008/09/img-0693-resize.jpg)
+
 ![ Me waiting on day 3](/assets/images/2008/09/img-0694-resize.jpg)
 
 The above photos were taken at 4pm to show us just waiting and waiting and waiting.
@@ -193,8 +197,11 @@ We jumped in and off we went back the way we came. The river had dropped another
 The left side of photo 4 is a rough idea of the landing area where we first got the canoe out of the water. As you can see it’s mainly a steep grassy cliff with a small section sticking out at the end.
 
 ![shots of river bank](/assets/images/2008/09/p9160107-resize.jpg)
+
 ![shots of river bank](/assets/images/2008/09/p9160112-resize.jpg)
+
 ![Where we fell out ](/assets/images/2008/09/p9160113-resize.jpg)
+
 ![shots of river bank](/assets/images/2008/09/p9160120-resize.jpg)
 
 There were large sections of the river _where there was no current at all_. It was like big sections were just a pond and some sections where there was some current. We were annoyed. **This** was how the river should have been for us.
@@ -212,6 +219,7 @@ When we first arrived at the hut, we had initially been rather angry towards the
 We had not paid for the trip yet, and since he didn’t bring it up on the car ride back I didn’t push it. Besides, we needed that money to get a new sleeping bag for me and a head torch for Fem.
 
 ![The lodge where we stayed ](/assets/images/2008/09/img-0696-resize.jpg)
+
 ![The adventure is over](/assets/images/2008/09/img-0706-resize.jpg)
 
 We got back to our car and then left. This concludes our Whanganui Canoe Trip. If you have any questions, please let me know.
