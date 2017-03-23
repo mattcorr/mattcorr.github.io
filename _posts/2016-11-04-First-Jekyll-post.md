@@ -2,6 +2,7 @@
 title:  "First Jekyll Blog Post!"
 header:
   image: "/assets/images/2016/12/jekyll-header.jpg"
+excerpt: "Why I migrated to Jekyll from Ghost."
 categories: 
   - Jekyll
 tags:

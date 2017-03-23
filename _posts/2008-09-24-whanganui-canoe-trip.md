@@ -1,6 +1,7 @@
 ---
 title:  "Whanganui Canoe Trip"
-header:
+
+excerpt: "This is the story of the biggest adventure we had in our entire New Zealand travel holiday! We are just glad to have survived it!"
 categories: 
   - Blog
   - Travel

@@ -3,6 +3,7 @@ title:  "Using Azure Automation & PowerShell for Slack channel notifications"
 header:
     image: "/assets/images/2016/03/header01.jpg"
     caption: "Able Tasman Hike, New Zealand, 2008"
+excerpt: "Details how you can trigger slack notifications from Azure Automation from any data source. For this example, I use a user controlled table in an Atlassian Confluence wiki."
 categories: 
   - Automation
 tags:

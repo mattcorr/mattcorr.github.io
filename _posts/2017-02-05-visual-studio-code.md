@@ -2,6 +2,7 @@
 title:  "Visual Studio Code"
 header:
   image: "/assets/images/2017/02/vscode.jpg"
+excerpt: "Why I recommend Visual Studio Code as your main text editor."
 categories: 
   - Software
 tags:

@@ -3,6 +3,7 @@ title:  "How to get PowerShellGet working with no Internet access"
 header:
   image: "/assets/images/2017/02/powershellnuget-header.jpg"
   caption: "Castlepoint, New Zealand"
+excerpt: "Assistance for setting up local PowerShellGet with no external internet access."
 categories: 
   - PowerShell
 tags:
