@@ -18,7 +18,7 @@ On the 14th, there appeared to be a break in the rain for about 3 days according
 
 When we got to Whakahoro, he checked out the river and said we were ok to go. He did mention that the current was flowing faster than normal but this would assist us going down and would take our 6 hour travelling time down to 4 hours. I was pleased that I would mainly only have to steer and not worry too much about paddling. He said that if we did tip out to just get the canoe to shallow water, tip the water out and then open one of the barrels to change into warm dry clothes. Since we only had one set of warm clothes, I was not sure if I would do that last part if it came to it! He also mentioned that our centre of gravity would be a lot higher as we were both a lot taller, therefore we just needed to be careful when balancing the canoe.
 
-We stored our possessions in six 30L watertight barrels. There were three blue barrels that I had my things in, and three black ones that housed Fem’s gear. The owner tied the barrels in a 2 by 3 pattern with a blue rope across the 2 person Canadian canoe. He also put in a ten metre black rope that we could use with one end tied to the front of the canoe. We had our two 3L Camelbacks which held our water supply. Fem put hers in the bottom of the canoe. I tied mine to a canoe cross beam (shown in the photo below). We didn’t have wet suits, so I just wore my swimming trunks with a normal pair of shorts over the top for warmth. I had two T-shirts and my raincoat on my torso. Fem was similar but with long quick drying pants and thermal pants. We both had our Teva sandals on our feet.
+We stored our possessions in six 30L watertight barrels. There were three blue barrels that I had my things in and three black ones that housed Fem’s gear. The owner tied the barrels in a 2 by 3 pattern with a blue rope across the 2 person Canadian canoe. He also put in a ten metre black rope that we could use with one end tied to the front of the canoe. We had our two 3L Camelbacks which held our water supply. Fem put hers in the bottom of the canoe. I tied mine to a canoe cross beam (shown in the photo below). We didn’t have wet suits, so I just wore my swimming trunks with a normal pair of shorts over the top for warmth. I had two T-shirts and my raincoat on my torso. Fem was similar but with long quick drying pants and thermal pants. We both had our Teva sandals on our feet.
 
 The owner and his assistant then helped us into the canoes and away we went. With both of us in the canoe, the sides sunk a little lower than normal. While I felt pretty ok, Fem was instantly concerned with how unstable it seemed.
 
@@ -42,7 +42,7 @@ Remembering the advice we were told, we tried to get the overturned canoe to the
 
 After trying this about four times I was getting a bit concerned. A lot of the shoreline on both sides of the river was just steep cliffs with no possibility of putting the canoe on land. Other landing sites were on the other side of the river or being passed by too fast for us to get to. I was always pleased with the “powerful” kick I could do in the swimming pool, but this current was just way too strong. Dragging an upturned canoe, it was like a dead weight in the water. We just could not get it to land or even just shallow water.
 
-After discussing it with Fem, we thought we should try to tip over the canoe in the water, and get back into it. But when you cannot touch the bottom, as the canoe is flipped, it basically scoops up a lot of water as it turns over, which sends either the head or the tail of the canoe under the waters surface.
+After discussing it with Fem, we thought we should try to tip over the canoe in the water and get back into it. But when you cannot touch the bottom, as the canoe is flipped, it basically scoops up a lot of water as it turns over, which sends either the head or the tail of the canoe under the waters surface.
 
 It was around this time when the ropes holding the barrels somehow came undone. Three of the barrels started floating away from us. Fem was able to grab one and hang on to it. Fem yelled out for me to get the barrels. I was not able to get to the other two barrels in time and they floated out of reach.
 
@@ -74,25 +74,25 @@ During this process at an early stage I was able to touch bottom. I could feel l
 
 It was around this time we past the signs indicating the second camp spot named Ohauora. We were surprised to see practically no landing bay at Ohauora. It made it very very easy to miss it and drift on past. If you were in a canoe, it would have been impossible to back-paddle to make it back. Ohauora was the half way mark for our trip. I knew we needed to get back into our canoe before we risked sailing past our hut which was next.
 
-After about 20 minutes of emptying the canoe, it was high in the river with the two of us clinging on to the sides as we still continued down the swollen river. I yelled out to Fem to get into the canoe. She was loosing her strength fast, and had trouble pulling herself in. With both of us not being able to touch bottom, this made it very hard to get in. She asked me to get in first. With great difficulty I pulled myself up and was successfully able to get in the canoe. Ahh, it was so great to get out of the water! My body started to warm up straight away as there was still a bit of sunlight left.
+After about 20 minutes of emptying the canoe, it was high in the river with the two of us clinging on to the sides as we still continued down the swollen river. I yelled out to Fem to get into the canoe. She was loosing her strength fast and had trouble pulling herself in. With both of us not being able to touch bottom, this made it very hard to get in. She asked me to get in first. With great difficulty I pulled myself up and was successfully able to get in the canoe. Ahh, it was so great to get out of the water! My body started to warm up straight away as there was still a bit of sunlight left.
 
 However with me in the back of the canoe this raised up the front of the canoe even more. Fem asks me to try and paddle over to the side for a hopefully shallow spot to make it easier for her to get in. I was not able to control the canoe very well with her in the water and holding on the side.
 
 I urged Fem again to try and get into the canoe. With me holding the other side for stability Fem tried and tried to get in. Unfortunately the efforts destabilised the canoe too much and it toppled over again.
 
-The cold water rushed over me again as I fell in and it seemed even colder now. Fem was starting to shiver in the water. I could see her lower lip trembling with a combination of fear and the cold water. I was very cold too, and was shivering a bit. I was quiet for a while, not really sure what to make of it all.
+The cold water rushed over me again as I fell in and it seemed even colder now. Fem was starting to shiver in the water. I could see her lower lip trembling with a combination of fear and the cold water. I was very cold too and was shivering a bit. I was quiet for a while, not really sure what to make of it all.
 
 “What are we going to do Matt?”
 
 “I dunno. I am thinking…”
 
-I was fast running out of ideas. I knew we had to get out of the water fast. I didn’t know how long we had been in there. We tried to turn over the canoe using the barrels under it again and again, and it just didn’t work like before. I checked the barrels and noticed one of the blue ones had sprung a major leak. It was no longer buoyant and since it was heavy and barely above the surface it was hindering the turn over process. I knew it was one of my barrels, but with almost no hesitation, I untied that barrel and set it loose.
+I was fast running out of ideas. I knew we had to get out of the water fast. I didn’t know how long we had been in there. We tried to turn over the canoe using the barrels under it again and again and it just didn’t work like before. I checked the barrels and noticed one of the blue ones had sprung a major leak. It was no longer buoyant and since it was heavy and barely above the surface it was hindering the turn over process. I knew it was one of my barrels, but with almost no hesitation, I untied that barrel and set it loose.
 
 “Jeez, I really bloody hope that’s not the one with my hearing aids and camera and wallet…” I thought to myself as it sailed away barely visible.
 
 With the dead weight no longer there we were having more success. But I was still not able get the canoe over successfully.
 
-Fem was getting colder and colder. I was feeling numb, and was shivering as well. She started to yawn, and I was getting concerned if it is a sign of early hypothermia.
+Fem was getting colder and colder. I was feeling numb and was shivering as well. She started to yawn and I was getting concerned if it is a sign of early hypothermia.
 
 Fem said “Matt, I am not sure how much longer I can hold on”
 
@@ -104,7 +104,7 @@ In sheer frustration, I grab the ropes and with both my feet on the side of the 
 
 “Finally!”, I yell out as I frantically start to empty the canoe with the milk carton.
 
-While I am emptying the canoe, Fem notices a possible spot where we can get to shore. The current has taken us close to the left side of the river, so it’s a good shot. With the canoe the right way up, and a lot of water out of it, it’s no longer the dead weight it was in the water. We are able to shimmy over to the left and I reach out and grasp long blades of grass and clumps of dirt on the cliffs edge. Fem does the same, and we are able to stop the canoe just out of the main current.
+While I am emptying the canoe, Fem notices a possible spot where we can get to shore. The current has taken us close to the left side of the river, so it’s a good shot. With the canoe the right way up and a lot of water out of it, it’s no longer the dead weight it was in the water. We are able to shimmy over to the left and I reach out and grasp long blades of grass and clumps of dirt on the cliffs edge. Fem does the same and we are able to stop the canoe just out of the main current.
 
 I look up to where we are and it’s just a very steep grassy hill that has gone straight into the water. There was a small flat section of mud, dirt and grass sticking out about 50 cm wide by about 3 metres long. It would have been enough to get the canoe off the water. But we still needed to get ourselves out of the water.
 
@@ -113,7 +113,7 @@ Fem tells me to hold the canoe and she tries to get out. She somehow manages to 
 
 I finally am able to get a hold and am able to pull myself out with mud everywhere! We then drag the canoe up the small section. So we are finally both out of the water and the canoe is on land!
 
-The canoe is still on a angle and the water still inside it rushes down to the back. With Fem holding the rope to ensure the canoe does not slide back into the water, I set about removing the rest of the water and Fem helped with untangling the mess of the ropes. This took some time, but we end up having just the blue rope tying the 5 remaining barrels to the canoe with plenty of grannie knots to ensure it does not come loose easily. The long black rope was also tied to itself to ensure it does not get in the way again.
+The canoe is still on an angle and the water still inside it rushes down to the back. With Fem holding the rope to ensure the canoe does not slide back into the water, I set about removing the rest of the water and Fem helped with untangling the mess of the ropes. This took some time, but we end up having just the blue rope tying the 5 remaining barrels to the canoe with plenty of grannie knots to ensure it does not come loose easily. The long black rope was also tied to itself to ensure it does not get in the way again.
 
 Very carefully we got back into the canoe. We were both wet and still prone to shivering in the cold wind. We were able to launch successfully and we then paddled very carefully down the river.
 
@@ -123,11 +123,11 @@ Literally about 20 minutes later we came to the sign for the hut. “John Coull 
 
 “Jesus are we almost there already?”
 
-We moved over the right side and hugged the shoreline carefully. We were looking for the landing bay, and we were NOT going to miss it.
+We moved over the right side and hugged the shoreline carefully. We were looking for the landing bay and we were NOT going to miss it.
 
 We saw a sign saying “Welcome to John Coull hut” but there was no landing zone. There was just a steep grassy hill, but not as bad as before when we got the canoe out. We manoeuvred the canoe to the side and out of the main current. Fem carefully gets out of the canoe and climbs up the hill and sees a path. I urge her to follow it and see where the landing zone is. She follows it and sees that it is just around the corner. So rather than get back into the canoe, we just walked along the steep shoreline dragging the canoe by the rope on the front.  I was shocked when I saw the landing zone. If you did not know it was there, you WOULD have missed it. There was a strong current right in front of it and it was only about 10 metres wide. It was also directly behind a steep turn. The shore was a small section of dirt and mud that was on an angle of 45 degrees. I took the rope connected to the canoe and dragged it over. I got another shock when I stepped on the dirt near the waters edge and I sunk down almost up to my knee.
 
-We were not going to be able to drag the canoe up the steep slope without getting the barrels out first to lighten the weight. Fem untied them and passed them up to me. Then we were able to get the canoe up higher, and we then tied off both ends to nearby trees and stumps.
+We were not going to be able to drag the canoe up the steep slope without getting the barrels out first to lighten the weight. Fem untied them and passed them up to me. Then we were able to get the canoe up higher and we then tied off both ends to nearby trees and stumps.
 
 We were safe! We took the 5 barrels up to the 100 metre path to the hut. This took ages as we were both exhausted.
 
@@ -149,7 +149,7 @@ Almost all of Fem’s dry clothes were saturated. Her sleeping bag was damp and 
 
 The wood fire in the hut did not have any matches provided. Luckily the ones we had were in one of the dry barrels so we used them to try and start a fire. After a frustrating hour of attempts, we could not get the damp wood to keep burning. We then gave up and had a dinner.
 
-With most of Fem’s clothes wet, we had to share what little dry clothes we had between us. I ended up with just two T-shirts and a pair of underpants, and Fem was the same. After being in the water for that long we needed to get warm.
+With most of Fem’s clothes wet, we had to share what little dry clothes we had between us. I ended up with just two T-shirts and a pair of underpants and Fem was the same. After being in the water for that long we needed to get warm.
 
 We used the yellow plastic bag liners for our clothes as makeshift sleeping bags and had just Fem’s damp sleeping bag over our bodies. Anything to try and warm ourselves. We have an early night and try to get to sleep. I can’t stop shivering as I just cannot get warm. My exposed legs are cold to touch and shaking uncontrollably. Even with a second hut mattress over me to try and keep the warmth in, it does not help much.
 
@@ -159,7 +159,7 @@ We no longer want to go further with this canoe trip. We cannot risk another spi
 
 ## Day 2 – The Waiting
 
-We wake up and the fire has gone out. Another hour is spent by myself at first, and then Fem persists with it and gets it back up. We resolve to not let it die out again as we are running out of matches.
+We wake up and the fire has gone out. Another hour is spent by myself at first and then Fem persists with it and gets it back up. We resolve to not let it die out again as we are running out of matches.
 
 Fem has a sleep mid afternoon while I read some of the magazines that were left in the hut. Shortly after, 2 pig hunters enter the hut. They seem surprised to see us. We share our story of the previous day to their shock and amazement. They came to the hut via their jet boat, but they had to pick up other people so they could not take us back with them. But they assured us they will give the message to our canoe company so we should be picked up the following day sometime. This is very re-assuring to know.
 
@@ -171,9 +171,9 @@ About two hours later, three Israeli Russians enter the hut. Michael, Kesnia and
 
 By late afternoon, most of our clothes have been flame dried. So we are much more warmly clothed than the previous night. The rest of the day is spent resting, chatting with the new arrivals, playing travel-scrabble (wet but functional), reading magazines or keeping the fire going.
 
-That night they shared a meal with us. Offering us cheese and fruit and nuts with straight rum. We offered some of our chocolate in exchange, and we all had a good time that night.
+That night they shared a meal with us. Offering us cheese and fruit and nuts with straight rum. We offered some of our chocolate in exchange and we all had a good time that night.
 
-Since the fire had been going the whole day and the evening, the hut itself was very warm. I didn’t need a sleeping bag, and was warm to just lie fully clothes on the mattress. However during the night, we had to wake up and put more big logs on the fire to stop it from dying out completely. Fem was mostly awake through the night and she had to nudge me to check the fire sometimes.
+Since the fire had been going the whole day and the evening, the hut itself was very warm. I didn’t need a sleeping bag and was warm to just lie fully clothes on the mattress. However during the night, we had to wake up and put more big logs on the fire to stop it from dying out completely. Fem was mostly awake through the night and she had to nudge me to check the fire sometimes.
 
 ## Day 3 – The Rescue
 
@@ -183,7 +183,7 @@ We said farewell to the Israelis at about 10:30am. Then it was a slow process of
 
 ![Fem waiting on day 3](/assets/images/2008/09/img-0693-resize.jpg)
 
-![ Me waiting on day 3](/assets/images/2008/09/img-0694-resize.jpg)
+![Me waiting on day 3](/assets/images/2008/09/img-0694-resize.jpg)
 
 The above photos were taken at 4pm to show us just waiting and waiting and waiting.
 
@@ -207,9 +207,11 @@ The left side of photo 4 is a rough idea of the landing area where we first got 
 
 There were large sections of the river _where there was no current at all_. It was like big sections were just a pond and some sections where there was some current. We were annoyed. **This** was how the river should have been for us.
 
-Fem on the jetboat on the way back Me on the jetboat
+![Fem on the jetboat on the way back ](/assets/images/2008/09/p9160126-resize.jpg)
 
-We got back to Whakahoro and got off the river. It was late in the evening now, and the assistant’s car had a flat battery so we could not get back to our car. They offered to put us up in a nearly lodge for the night to which we accepted. Everyone was so helpful and nice to us. They were all shocked to hear our story. After having a tasty meal of deer heart, liver and kidneys from a hunter’s first kill we settled in for a good night sleep.
+![Me on the jetboat](/assets/images/2008/09/p9160125-resize.jpg)
+
+We got back to Whakahoro and got off the river. It was late in the evening now and the assistant’s car had a flat battery so we could not get back to our car. They offered to put us up in a nearly lodge for the night to which we accepted. Everyone was so helpful and nice to us. They were all shocked to hear our story. After having a tasty meal of deer heart, liver and kidneys from a hunter’s first kill we settled in for a good night sleep.
 
 ## Day 4 – Epilogue
 
@@ -217,7 +219,7 @@ After a good breakfast, the owner of the canoe company turned up and drove us ba
 
 When we first arrived at the hut, we had initially been rather angry towards the owner and his very poor decision to allow inexperienced canoeists on what ended up being a swollen river. But by the third day, we were just grateful to have survived it and just wanted to move on.
 
-We had not paid for the trip yet, and since he didn’t bring it up on the car ride back I didn’t push it. Besides, we needed that money to get a new sleeping bag for me and a head torch for Fem.
+We had not paid for the trip yet and since he didn’t bring it up on the car ride back I didn’t push it. Besides, we needed that money to get a new sleeping bag for me and a head torch for Fem.
 
 ![The lodge where we stayed ](/assets/images/2008/09/img-0696-resize.jpg)
 
