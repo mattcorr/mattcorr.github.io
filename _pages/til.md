@@ -1,6 +1,8 @@
 ---
-title:  "Today I learned"
-permalink: https://til.intrepidintegration.com
+title:  "TIL"
+permalink: /til/ 
 layout: single
 ---
-Testing
+
+# TIL? 
+TIL is short for **Today I Learned**. I have a [gitbook site here](https://til.intrepidintegration.com/) that covers short TILs.
