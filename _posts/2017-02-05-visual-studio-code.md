@@ -12,7 +12,7 @@ We all have software tools and utilities we take with us from job to job. These 
 
 ## Text Editors
 Text editors are usually a very religious topic. Everyone holds their own choice close to their hearts.
-I have used a few over the years. The main ones include:
+I have used a few over the years. The main ones include: 
 
 * [UltraEdit](http://www.ultraedit.com/)
 * [Notepad++](https://notepad-plus-plus.org/)

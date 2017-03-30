@@ -7,9 +7,6 @@ categories:
   - Travel
 ---
 
-This is a break from previous blog entries. All blog entries up until now have been in chronological order. The last blog entry is up to Napier which is a while ago and a lot has happened since then. I am breaking the order as Fem and I recently had a serious ordeal on the Whanganui river and I felt this needed to be up here sooner rather than later.
-{: .notice--warning}
-
 From the 10th until 14th of September we were in National Park village in Tongario National Park. It rained every day and our plans to do walks around the park and the mountains themselves were on hold or delayed. We had previously decided that we would do the final “Great Walk” of our trip which was a 3-day canoe down the Whanganui river. Both Fem and I have no experience in canoes and were concerned that the previous days of rain would affect the river levels.
 
 ## Day 1 – The Canoe Trip

@@ -4,8 +4,8 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "TIL"
      url: https://til.intrepidintegration.com
-  # - title: "Travels"
-  #   url: /travels/  
+   - title: "Travels"
+     url: /travels/  
    - title: "Photography"
      url: http://photos.mattcorr.com/  
    - title: "About"

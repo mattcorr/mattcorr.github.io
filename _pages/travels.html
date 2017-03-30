@@ -1,13 +1,15 @@
 ---
 layout: archive
 permalink: /travels/
-title: "Travel Blog posts"
+title: "Travel Blog"
 author_profile: true
 ---
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
+<p>This page contains blog posts related to my travels.</p>
+<p>It mostly covers the year Femke and I spent travelling New Zealand <i>(2008)</i> and our 3 month trip to the Netherlands <i>(2008-2009)</i>. </p>
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   {% if category == 'Travel' %}
