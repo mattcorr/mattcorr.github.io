@@ -14,13 +14,13 @@ The whole image gallery is [here](http://photos.mattcorr.com/Sports/Fun-with-Dir
 
 Some sample shots:
 
-![Steve dirtbiking - shot 1](/assets/images/2006/03/img_0971-x2.jpg)
+![Steve dirtbiking - shot 1](/assets/images/2006/03/img-0971-x2.jpg)
 
 and 
 
-![Steve dirtbiking - shot 2](/assets/images/2006/03/img_0860-x2.jpg)
+![Steve dirtbiking - shot 2](/assets/images/2006/03/img-0860-x2.jpg)
 
-and using the high speed shutter and some photoshop I was able to create this:
+Using the high speed shutter and some Photoshop I was able to create this:
 
 ![Steve dirtbiking - photoshopped](/assets/images/2006/03/bike-jump-montage-X2.jpg)
 
