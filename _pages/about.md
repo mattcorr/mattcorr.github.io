@@ -15,5 +15,5 @@ I have created this blog to share my experiences of using Microsoft BizTalk as w
 
 My other role is the administrator of internal [Confluence](https://www.atlassian.com/software/confluence) and [Jira](https://www.atlassian.com/software/jira) sites, so expect to see some Atlassian related content here occasionally too!
 
-I am married to my wonderful and understanding Dutch wife Femke and we have a young son Nathan who happily takes up most spare time we might have!
-We also have a new baby due in May 2017! Next year is going to be a year of change!
+I am married to my wonderful and understanding Dutch wife Femke and we have a young son Nathan who happily takes up most spare time we might have.
+We also have a new baby due in May 2017! This year is going to be pretty full on!

@@ -1,0 +1,21 @@
+---
+layout: archive
+permalink: /travels/
+title: "Travel Blog posts"
+author_profile: true
+---
+
+{% include base_path %}
+{% include group-by-array collection=site.posts field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  {% if category == 'Travel' %}
+  <h2 id="{{ category }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% if post.categories contains 'Travel' %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+  {% endif %}
+{% endfor %}
