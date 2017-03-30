@@ -4,6 +4,7 @@ header:
 categories: 
   - Blog
   - Travel
+  - Photography
 ---
 
 Weekend in Sydney
