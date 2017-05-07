@@ -5,6 +5,7 @@ excerpt: "This is the story of the biggest adventure we had in our entire New Ze
 categories: 
   - Blog
   - Travel
+  - New Zealand
 ---
 
 From the 10th until 14th of September we were in National Park village in Tongario National Park. It rained every day and our plans to do walks around the park and the mountains themselves were on hold or delayed. We had previously decided that we would do the final “Great Walk” of our trip which was a 3-day canoe down the Whanganui river. Both Fem and I have no experience in canoes and were concerned that the previous days of rain would affect the river levels.
@@ -31,7 +32,7 @@ We passed the first camp site named Mangapapa . Then just over 1 hour into the t
 
 The first thing that got me was how cold the water was. My lungs seemed to collapse in shock. My breath came out in short sudden gasps plus with the shock of us having overturned. I looked across to Fem to see she was experiencing the same thing. Neither of us could touch bottom so we could only move around the upturned canoe and try to manoeuvre it down the river.
 
-I tried to make light of the situation. “Ah well we went over, lets get this back up and get going”.
+I tried to make light of the situation. “Ah well, we went over, let's get this back up and get going!”.
 
 One thing I saw once I got over the shock was Fem’s camelback floating away down the river. I was not too concerned with it as we had more important things to worry about.
 
