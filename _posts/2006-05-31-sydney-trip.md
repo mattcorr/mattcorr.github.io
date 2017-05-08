@@ -1,5 +1,6 @@
 ---
 title:  "Weekend in Sydney"
+excerpt: "Summary of weekend photography trip to Sydney with Bronwen and John"
 header:
 categories: 
   - Blog

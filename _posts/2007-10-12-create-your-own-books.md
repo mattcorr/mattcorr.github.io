@@ -1,6 +1,7 @@
 ---
 title:  "Create your own books!"
 header:
+excerpt: "How you can create awesome and professional looking books from your computer!"
 categories: 
   - Blog
   - Technology

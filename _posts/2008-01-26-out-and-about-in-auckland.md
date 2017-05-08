@@ -2,6 +2,7 @@
 title:  "Out and about in Auckland"
 header:
   image: /assets/images/2008/01/IMG_3963-header.jpg
+excerpt: "Stories and photos out and about in Auckland"
 categories: 
   - Blog
   - Travel

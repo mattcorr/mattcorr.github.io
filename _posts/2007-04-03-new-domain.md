@@ -1,5 +1,6 @@
 ---
 title:  "We ain't joking about domains"
+excerpt: "How I purchased my first domain"
 header:
 categories: 
   - Blog

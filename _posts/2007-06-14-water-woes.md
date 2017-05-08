@@ -1,6 +1,7 @@
 ---
 title:  "Water Woes"
 header:
+excerpt: "Cheap and nasty cost cutting during one of Brisbane's worst droughts"
 categories: 
   - Blog
 ---

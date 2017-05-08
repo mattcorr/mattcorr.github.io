@@ -1,5 +1,6 @@
 ---
 title:  "Dirt Bike Shots"
+excerpt: "Testing out new camera gear by taking photos of a mate's dirt bike in action"
 categories: 
   - Blog
   - Photography

@@ -1,6 +1,7 @@
 ---
 title:  "New Laptop"
 header:
+excerpt: "Investigations into getting a new laptop"
 categories: 
   - Blog
   - Technology

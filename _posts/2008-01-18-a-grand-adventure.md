@@ -1,6 +1,7 @@
 ---
 title:  "A grand adventure!"
 header:
+excerpt: "The start of something big"
 categories: 
   - Blog
   - Travel

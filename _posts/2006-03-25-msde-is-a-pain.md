@@ -1,5 +1,6 @@
 ---
 title:  "MSDE is a real pain!"
+excerpt: "Issues with MS SQL Server Desktop Edition"
 header:
 categories: 
   - Blog

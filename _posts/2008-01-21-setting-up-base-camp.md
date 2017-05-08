@@ -1,6 +1,7 @@
 ---
 title:  "Setting up base camp"
 header:
+excerpt: "Getting ready for the big trip while in Auckland"
 categories: 
   - Blog
   - Travel

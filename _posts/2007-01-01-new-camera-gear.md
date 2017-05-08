@@ -1,5 +1,6 @@
 ---
 title:  "New Camera Gear"
+excerpt: "Details of my new camera gear"
 header:
 categories: 
   - Blog

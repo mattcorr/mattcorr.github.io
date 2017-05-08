@@ -1,6 +1,7 @@
 ---
 title:  "New hearing aids!"
 header:
+excerpt: "Not many good audiologists out there any more."
 categories: 
   - Blog
   - Technology

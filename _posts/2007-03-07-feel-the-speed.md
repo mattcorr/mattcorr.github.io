@@ -1,5 +1,6 @@
 ---
 title:  "Feel the power! I mean speed!"
+excerpt: "I finally get faster internet!"
 header:
 categories: 
   - Blog

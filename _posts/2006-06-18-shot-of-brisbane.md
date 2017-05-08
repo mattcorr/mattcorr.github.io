@@ -1,6 +1,7 @@
 ---
 title:  "A shot of Brisbane city"
 header:
+excerpt: "Photos of Brisbane city at night"
 categories: 
   - Blog
   - Technology
