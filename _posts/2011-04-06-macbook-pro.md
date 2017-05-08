@@ -13,8 +13,8 @@ Now over a year later I have upgraded from the Macbook to a new [Macbook Pro 15�
 
 I know a lot of PC people still point out the initial cost of a Mac as a major negative. Sure it’s expensive, but the quality of the hardware with the interface and “get out of your way” nature of OS X makes it well worth it.
 
-Also since I still work with PCs at work, I switch between the two every day. [Windows 7](http://windows.microsoft.com/en-US/windows7/products/home) is a very capable OS but the quality of the laptops is noticeably  inferior!
+Also since I still work with PCs at work, I switch between the two every day. [Windows 7](http://windows.microsoft.com/en-US/windows7/products/home) is a very capable OS but the quality of the laptops is noticeably inferior!
 
-But as with all flamewars people have biases and prefer to have sides. Some prefer Windows and it works for them. fair enough. I just prefer the Mac :)
+But as with all flame-wars people have biases and prefer to have sides. Some prefer Windows and it works for them. fair enough. I just prefer the Mac :)
 
 Xcode here I come!
