@@ -1,5 +1,5 @@
 ---
-title:  "Windy Weelington"
+title:  "Windy Wellington"
 header:
  image: /assets/images/2008/02/IMG_4522-header.jpg
  caption: "View from Mount Kaukau, Wellington, 2008"
