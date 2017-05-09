@@ -1,6 +1,7 @@
 ---
 title:  "The long road south"
 header:
+  image: /assets/images/2008/02/IMG_4203-header.jpg
 excerpt: "Details of our trip from Auckland to Wellington"
 categories: 
   - Blog
