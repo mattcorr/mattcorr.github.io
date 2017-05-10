@@ -19,4 +19,4 @@ We had plans to do a 5 day tramp on the Abel Tasman starting on the 10th, so aft
 
 After spending one night in Nelson, we drove to Marahau to get ready for the mighty [Abel Tasman Coastal Track](http://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park/things-to-do/tracks/abel-tasman-coast-track/).
 
-Click [here](http://photos.mattcorr.com/New-Zealand/Boat-trip-to-Picton/i-BWt8tWQ) for photos on the boat trip to Picton.
+Click [here](http://photos.mattcorr.com/New-Zealand/Boat-trip-to-Picton/i-BWt8tWQ) for photos of the boat trip to Picton.
