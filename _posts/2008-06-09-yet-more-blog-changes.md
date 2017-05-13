@@ -1,6 +1,5 @@
 ---
 title:  "Yet more blog changes"
-header:
 excerpt: "Some behind the scenes changes of my blog web site"
 categories: 
   - Blog
