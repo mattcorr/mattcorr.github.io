@@ -1,6 +1,9 @@
 ---
 title:  "Whanganui Canoe Trip"
-
+header:
+  image: /assets/images/2008/09/IMG_0670-header.JPG
+ caption: "Where we parked our canoe afterwards, 2008"
+ teaser: /assets/images/2008/09/IMG_0670-tn.jpg
 excerpt: "This is the story of the biggest adventure we had in our entire New Zealand travel holiday! We are just glad to have survived it!"
 categories: 
   - Blog
