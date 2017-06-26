@@ -25,7 +25,7 @@ This triggered my Automation passion, so I have come up with a script that handl
 
 # How does it work?
 
-This uses an xml configuration file that contains the host, instances and handlers to create.
+This uses an xml configuration file that contains the host, instances and handlers to create in your BizTalk environment. There are PowerShell scripts used to load the configuration file and either create or remove the artefacts as needed.
 
 ## XML Configuration
 See below for a sample:
