@@ -11,7 +11,7 @@ title                    : "Intrepid Integration"
 title_separator          : "-"
 name                     : "Matt Corr"
 description              : "Consultant with Mexia. Doing all things related to BizTalk, Azure, PowerShell, Devops, Octopus Deploy, Confluence and now blogging!"
-url                      :  "http://www.intrepidintegration.com"
+url                      :  "https://www.intrepidintegration.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mattcorr.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -87,7 +87,7 @@ author:
   bio              : "Tall, Hearing Impaired, Integration developer & passionate about automation!"
   location         : "Brisbane, Australia"
   email            : "matt.corr@gmail.com"
-  uri              : "http://www.intrepidintegration.com"
+  uri              : "https://www.intrepidintegration.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
