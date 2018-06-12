@@ -31,11 +31,7 @@
       {% endif %}
     </h2>
     {% if post.read_time %}
-<<<<<<< HEAD
       <p class="page__meta">{{ post.date | date: "%-d %B %Y" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-=======
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
->>>>>>> 39522e876fc2d6eeaee83fb0bf6a6776bfb1c869
     {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
