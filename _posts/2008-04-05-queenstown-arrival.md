@@ -15,17 +15,17 @@ categories:
 
 On the 5th of March, we left Wanaka and drove to Queenstown. Again the day was very overcast, but there were some impressive views from some lookouts along the way.
 
-![Terrain on the drive from Wanaka to Queenstown](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-7Tq73Zm/0/4fda3533/XL/IMG_6435-XL.jpg)
+![Terrain on the drive from Wanaka to Queenstown](/assets/images/smugmug/IMG_6435.jpg)
 
-![Femke on the edge](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-fkFWbGp/0/296a3cf4/XL/IMG_6450-XL.jpg)
+![Femke on the edge](/assets/images/smugmug/IMG_6450.jpg)
 
 ## Arrowtown
 
 On the way to Queenstown, there is a small old style town called Arrowtown. We stopped there to see what it was all about. Basically it has one main street that has lots of shop facades done up like it was the 1800's gold rush times. Of course inside each shop are people who want to sell you overpriced souvenirs. There were some original huts from that era from the Chinese settlers which was rather interesting to see. As you can see from the photo the Chinese were even smaller back then too! :)
 
-![Arrowtown street](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-5gspRJW/0/9e03d335/XL/IMG_0238-XL.jpg)
+![Arrowtown street](/assets/images/smugmug/IMG_0238.jpg)
 
-![Me seeing how small the buildings were](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-ZxkKGJK/0/accb1bc6/XL/IMG_0239-XL.jpg)
+![Me seeing how small the buildings were](/assets/images/smugmug/IMG_0239.jpg)
 
 ## The boots
 
@@ -39,10 +39,10 @@ I first needed to do some research on the net to determine for sure which boots 
 
 Right near the camp site is the base for the Queenstown Gondola, so after placing the order for the boots, we saw it was a glorious day so we went up the Gondola. The views were absolutely incredible! We spent a bit of time up there looking around, walking up higher, just relaxing and watching some para-sailers take off.
 
-![Great shot of us at the top of the Queenstown gondola](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-6D6wntK/0/e0152995/XL/IMG_6479-XL.jpg)
+![Great shot of us at the top of the Queenstown gondola](/assets/images/smugmug/IMG_6479.jpg)
 
-![Stunning views at queenstown](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-J4bQVzs/0/cf934679/XL/IMG_6583-XL.jpg)
+![Stunning views at queenstown](/assets/images/smugmug/IMG_6583.jpg)
 
-![Paraglider in action](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-TL2N34T/0/adba4ac4/XL/IMG_6510-XL.jpg)
+![Paraglider in action](/assets/images/smugmug/IMG_6510.jpg)
 
-![CLose up of paraglider](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-Wxj9v94/0/9028c0a0/XL/IMG_6546-XL.jpg)
+![CLose up of paraglider](/assets/images/smugmug/IMG_6546.jpg)
