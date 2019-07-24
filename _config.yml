@@ -18,30 +18,34 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-GB"
 title                    : "Intrepid Integration"
 title_separator          : "-"
+subtitle                 : "All things automation and integration"
 name                     : "Matt Corr"
-description              : "Consultant with Mexia. Doing all things related to BizTalk, Azure, PowerShell, Devops, Octopus Deploy, Confluence and now blogging!"
-url                      :  "https://www.intrepidintegration.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Descriptiopn goes here"
+url                      : "https://www.intrepidintegration.com"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattcorr.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-minimal_mistakes_skin    : "dirt"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# breadcrumbs            : false # true, false (default)
+teaser                   : "/assets/images/defaulttease.jpg"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" #, "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : "intrepidintegration"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+  facebook:               # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
-  commitMessage          : # "New comment."
+  commitMessage          : # "New comment by {fields.name}"
   filename               : # comment-{@timestamp}
   format                 : # "yml"
   moderation             : # true
@@ -54,13 +58,14 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -73,14 +78,14 @@ google:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
 yandex_site_verification :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "mattcorr"
+  username               : mattcorr
 facebook:
-  username               :
+  username               : mattcorr
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -93,44 +98,54 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google"  # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-56713184-1"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Matt Corr"
-  avatar           : "/assets/images/bioshot.png"
-  bio              : "Tall, Hearing Impaired, Integration developer & passionate about automation!"
+  avatar           : "/assets/images/bioshot.jpg"
+  bio              : "Automation is my passion"
   location         : "Brisbane, Australia"
-  email            : "matt.corr@gmail.com"
-  uri              : "https://www.intrepidintegration.com"
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "mattcorr"
-  foursquare       :
-  github           : "mattcorr"
-  gitlab           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "mattcorr"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "mattcorr"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  email            : matt.corr@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:matt.corr@gmail.com
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/mattcorr/resume/blob/master/matt-corr-resume.md"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mattcorr"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/mattcorr"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/mattcorr/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mattcorr"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://www.twitter.com/mattcorr
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: https://www.facebook.com/mattcorr
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/mattcorr/
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://www.github.com/mattcorr
 
 
 # Reading Files
@@ -209,7 +224,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-archives
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -218,6 +235,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 
 # Archives
@@ -237,16 +255,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
@@ -268,5 +286,6 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
+      classes: wide
       share: true
       related: true

@@ -11,13 +11,14 @@ categories:
   - Automation
 ---
 
+
 # Summary
-When setting up a new BizTalk environment, often there is a list of client specific Hosts to be created.
+When setting up a new BizTalk environment, often there is a list of client-specific Hosts to be created.
 
 By default, BizTalk one Host defined. 
 
 For each Host, a host Instance needs to be created for each server in the BizTalk group.
-Also additional Handlers for each of the BizTalk Adapters can be created as well.
+Also, additional Handlers for each of the BizTalk Adapters can be created as well.
 
 This can all be performed via the BizTalk Administration console, but this will take a heck of a lot of clicking and a lot of time.
 
@@ -30,7 +31,7 @@ This uses an xml configuration file that contains the host, instances and handle
 ## XML Configuration
 See below for a sample:
 
-NOTE: You can use from the xml below or from the github location [here](https://github.com/mattcorr/powershell-scripts/tree/master/BizTalk/Hosts).
+NOTE: You can use from the xml below or from the GitHub location [here](https://github.com/mattcorr/powershell-scripts/tree/master/BizTalk/Hosts).
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -84,11 +85,11 @@ The following nodes will need customisation for your specific environment
 The list of BizTalk Adapters to create handlers for based on the defined Hosts
 There are boolean toggles for if the send and receive are to be created. It is not expected these should change.
 
-Users would only just include the adapters they have on their environment and add new rows for customer or additional adapters installed.
+Users would only just include the adapters they have on their environment and add new rows for any custom or additional adapters installed.
 
 ## PowerShell Scripts
 
-The scripts required are available from my public PowerShell repo on github [here](https://github.com/mattcorr/powershell-scripts/tree/master/BizTalk/Hosts).
+The scripts required are available from my public PowerShell repo on GitHub [here](https://github.com/mattcorr/powershell-scripts/tree/master/BizTalk/Hosts).
 
 There are 3 files.
 
@@ -97,9 +98,3 @@ There are 3 files.
 * **Remove-HostInstanceHandlers.ps1** - undoes the work of the Add-HostInstanceHandlers script if desired.
 
 Refer to the help in each of the files for details on what they do.
-
-
-
-
-
-

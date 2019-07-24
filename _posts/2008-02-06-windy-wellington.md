@@ -17,14 +17,12 @@ While in Wellington we got the auto electrics of **Magnum** _(the name we have g
 
 Other things we were able to do was to meet Jeff's new gorgeous blue heeler named Jack.
 
-![Jeff with Jack](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-SP7PM92/0/9e0de062/X2/IMG_4545-X2.jpg)
+![Jeff with Jack](/assets/images/smugmug/IMG_4545.jpg)
 
 We checked out the view from Mt Victoria.
 
-![Wellington City](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-G5ttLnf/0/68e1cba0/X2/IMG_4471-X2.jpg)
+![Wellington City](/assets/images/smugmug/IMG_4471.jpg)
 
 Also Cath took Fem and I up Mt Kaukau, for some much needed endurance training!
 
-![View from the mountain](https://photos.smugmug.com/New-Zealand/Wellington/Sight-Seeing-and-Mt-Kaukau/i-WgpPZGm/0/b03590d5/X2/IMG_4513-X2.jpg)
-
-Feel free to check out the photo gallery [here](http://photos.mattcorr.com/New-Zealand/Wellington) for more photos.
+![View from the mountain](/assets/images/smugmug/IMG_4513.jpg)

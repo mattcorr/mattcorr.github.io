@@ -14,25 +14,25 @@ categories:
 
 We decided to go to Lake Matheson first to get some highly recommended lake reflection shots before the wind got up. We did very well as these shots below show!
 
-![Mountains from Lake Matheson](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-DqGRbz9/0/7db6c87f/XL/IMG_5965-XL.jpg) 
+![Mountains from Lake Matheson](/assets/images/smugmug/IMG_5965.jpg) 
  
 On the way back to the car, the clouds cleared from over Mt Cook, so I was able to get a mostly clear shot of it with my zoom.
 
-![Photo of Mt Cook](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-C5PPtMD/0/35c8bc7d/XL/IMG_6013-XL.jpg) 
+![Photo of Mt Cook](/assets/images/smugmug/IMG_6013.jpg) 
 
 Afterwards we went to the Fox glacier itself and it was truly a stunning sight. The walk was not too far, and it took you so close to the terminal face of the glacier itself. The whole area had an impressive rugged beauty feel about it all. I really enjoyed this place and think it might have the edge over the Franz Josef glacier overall.
 
-![Fox glacier](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-7SJtr24/0/71313dbc/XL/IMG_6039-XL.jpg)
+![Fox glacier](/assets/images/smugmug/IMG_6039.jpg)
 
-![Close up of Fox Glacier](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-NCNJBpz/0/f9ea38d3/XL/IMG_6071-XL.jpg)
+![Close up of Fox Glacier](/assets/images/smugmug/IMG_6071.jpg)
 
-![Interesting blue ice](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-gcj22fR/0/9589817b/XL/IMG_6053-XL.jpg)  
+![Interesting blue ice](/assets/images/smugmug/IMG_6053.jpg)  
 
-![Us in front of Fox Glacier](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-ZXPZSmn/0/87351c9a/XL/IMG_6079-XL.jpg) 
+![Us in front of Fox Glacier](/assets/images/smugmug/IMG_6079.jpg) 
 
 Here near the car park there is an incredible landslide that happened thousands of years ago but the sheer size and scale of it just takes your breath away!
 
-![Impressive landslide](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-fCxVk8C/0/e04c663c/XL/IMG_6117-XL.jpg)
+![Impressive landslide](/assets/images/smugmug/IMG_6117.jpg)
 
 That night the weather reports were forecasting heavy rain for Friday morning. After some consideration we decided to have a rest day on Friday and upgrade our accommodation from a tent to a cabin so Fem could actually get some sleep _(Me? I take my hearing aids out and will be able to sleep through a heavy thunder storm)_ and because we had planned on doing the Copland track _(a 2 day hike)_.
 

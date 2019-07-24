@@ -14,10 +14,10 @@ On February 24th, we left for Franz Josef and I would have to say we were spoilt
 
 There were some points of interest though. Near Harihari we saw where there first solo flight from Australia to New Zealand ended _(or rather crash landed)_.
 
-![Memorial Plaque](https://photos.smugmug.com/New-Zealand/Drive-to-Franz-Josef/i-WwZS8qh/0/a13eef7d/XL/IMG_5649-XL.jpg)
+![Memorial Plaque](/assets/images/smugmug/IMG_5649.jpg)
 
 It was only in the last 40 minutes of the 2.5 hour trip when we came close to the Southern Alps of New Zealand that the scenery improved immensely!
 
-![Cool shot](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-57ZbSsp/0/9b242d8b/XL/IMG_5655-XL.jpg)
+![Cool shot](/assets/images/smugmug/IMG_5655.jpg)
 
-![impressive remains](https://photos.smugmug.com/New-Zealand/Best-of-New-Zealand/i-RfqVNVV/0/421448ab/XL/IMG_5657-XL.jpg)
+![impressive remains](/assets/images/smugmug//IMG_5657.jpg)
