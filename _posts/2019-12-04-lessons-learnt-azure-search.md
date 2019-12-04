@@ -13,6 +13,12 @@ tags:
   - json
 ---
 
+A few weeks ago I published this blog post on the [Deloitte DPE blog](https://platform.deloitte.com.au/articles/lessons-learnt-from-deploying-azure-search-via-ci-cd).
+
+It is being reprinted here so I have my own record of it as well.
+
+---
+
 As we move more towards the cloud for our solutions these days, there are a growing number of PAAS options appearing that can help us to solve our problems without needing to reinvent the wheel.
 
 If your application requires a search service to be able to quickly query over a proprietary or legacy data source, I can highly recommend the use of Azure Search. Azure Search offers many features, including fast setup, data source flexibility, great REST API and extensive monitoring and control via the Azure Portal. You can read more about [Azure Search here](https://docs.microsoft.com/en-us/azure/search/).
