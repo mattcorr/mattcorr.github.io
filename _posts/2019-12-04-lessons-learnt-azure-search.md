@@ -3,6 +3,7 @@ title:  "Lessons learnt from deploying Azure Search via CI-CD"
 excerpt: "Learn about how you can overcome some limitations when deploying Azure Search Service indexes via your CI/CD automation pipeline."
 header:
  image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/azure-search-index.png
+ teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/azure-search-index-tn.png
 categories: 
   - Tech
 tags:
