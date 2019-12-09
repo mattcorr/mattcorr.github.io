@@ -3,6 +3,7 @@ title:  "How to reference data objects via for_each with Terraform"
 excerpt: "See how you can easily reference more complex data types with the for_each command in Terraform."
 header:
  image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/wairoatown-hd.jpg
+ caption: "Wairoa, New Zealand"
  teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/wairoatown-tb.jpg
 categories: 
   - Tech
@@ -14,7 +15,8 @@ I have been skilling up on [Terraform](https://www.terraform.io/) over the last 
 
 How has that been helpful?
 
-*NOTE: For the examples in this blog post, for simplicities sake, we are using SQS resources in AWS. There is nothing stopping you from use Azure or GPC.*
+For the examples in this blog post, for simplicities sake, we are using [SQS](https://aws.amazon.com/sqs/) resources in [AWS](https://aws.amazon.com). There is nothing stopping you from use [Azure](https://azure.microsoft.com/en-us/) or [GCP](https://cloud.google.com/).
+{: .notice--info}
 
 In the past, if you wanted to define a large number of similar resources in Terraform you could pass a list to the resource.
 
@@ -189,7 +191,7 @@ The `terraform plan` will have the additional fields set for each object in the 
   I have also found the resource terraform created when using `for_each` for either lists or maps of object is more readable and maintainable than using the count.index approach. Using the maps of objects approach is more ideal when there are large groups of similar objects that need to be created.
 
   So there you have it! Some examples of how to use `for_each` in action!   
-  If you want to play with these samples in a complete terraform project, refer to this [github project here](https://github.com/mattcorr/terraform-demo).
+  If you want to play with these samples in a complete terraform project, refer to this [github project here](https://github.com/mattcorr/terraform-demo){target="_blank"}.
   
 See you next time!
 
