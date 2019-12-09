@@ -191,7 +191,7 @@ The `terraform plan` will have the additional fields set for each object in the 
   I have also found the resource terraform created when using `for_each` for either lists or maps of object is more readable and maintainable than using the count.index approach. Using the maps of objects approach is more ideal when there are large groups of similar objects that need to be created.
 
   So there you have it! Some examples of how to use `for_each` in action!   
-  If you want to play with these samples in a complete terraform project, refer to this [github project here](https://github.com/mattcorr/terraform-demo){target="_blank"}.
+  If you want to play with these samples in a complete terraform project, refer to this [github project here](https://github.com/mattcorr/terraform-demo).
   
 See you next time!
 
