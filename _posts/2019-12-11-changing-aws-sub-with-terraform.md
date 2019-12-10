@@ -12,7 +12,7 @@ tags:
 ---
 This issue took a while for me to figure out, so hopefully, this will help someone else.
 
-As we know, [Terraform](https://www.terraform.io/) can be used to create/update/destroy resources on all the different cloud providers *(AWS, Azure, Google etc)*.*
+As we know, [Terraform](https://www.terraform.io/) can be used to create/update/destroy resources on all the different cloud providers *(AWS, Azure, Google etc)*.
 
 One of the first things you do with your project is run `terraform init`. This will download the provider libraries and prepare your modules among other things. Next, you would run `terraform plan` to see the details about what would be changed.
 
