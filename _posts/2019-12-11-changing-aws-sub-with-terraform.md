@@ -28,7 +28,6 @@ Errors like this are even more confusing when you can see in the logs that it is
 
 Testing out access using the AWS CLI shows it is all working as well. So why would we be getting this error?
 
-If you change your AWS account you are deploying your terraform into after you have run `terraform init`, then you must **delete** your `./.terraform` folder and start again. It seems to cache your credentials and this needs to be refreshed if the AWS account is updated.
-{: .notice--success}
+**If you change your AWS account you are deploying your terraform into after you have run `terraform init`, then you must *delete* your `./.terraform` folder and start again. It seems to cache your credentials and this needs to be refreshed if the AWS account is updated.**
 
 Hopefully this will save others some time to figure this out!
