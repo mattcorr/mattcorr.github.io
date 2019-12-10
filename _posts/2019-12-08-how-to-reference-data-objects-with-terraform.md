@@ -89,7 +89,7 @@ We can still keep the list, but tweaking our resource code to be something like 
 
 ```hcl
 resource "aws_sqs_queue" "message_queue" {
-  for_each = var.sqs_names
+  for_each = toset(var.sqs_names)
 
   name           = format("%s.fifo", each.key)
   fifo_queue     = true
