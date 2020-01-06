@@ -39,26 +39,26 @@ Instead I will build on Joe's post and detail how _(once authenticated via Azure
 ### Creating an Azure VM and Automation account
 First we need an Azure VM to practise with. These can be created via the Azure portal. Lets call this VM **azureautodemo**.
 
-![New Azure VM](/assets/images/2015/04/2015-04-12_16-02-35.png)
+![New Azure VM](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-12_16-02-35.png)
 
 If you have not already, create an Automation account. Do this by first selecting **Automation** and click on **Create**.
 
-![](/assets/images/2015/04/2015-04-22_23-21-23.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-22_23-21-23.png)
 
 Give it a name and ensure you select the region closest to you.
 
-![](/assets/images/2015/04/2015-04-12_16-27-34.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-12_16-27-34.png)
 
 Next, follow the steps from [Joe's blog post](http://azure.microsoft.com/blog/2014/08/27/azure-automation-authenticating-to-azure-using-azure-active-directory/) for setting up an Azure AD account.
 
 For this demo I called the account to use *Azure Automation*. Seems unlikely anyone should get confused by that!
 
-![](/assets/images/2015/04/2015-04-12_16-15-19.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-12_16-15-19.png)
 
 ### Automation Assets
 I prefer to use assets as much as possible to abstract out configuration of easily updatable variables.
 
-![](/assets/images/2015/04/2015-04-12_22-44-05.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-12_22-44-05.png)
 
 I have created three for the purpose of this demo. These are:
 
@@ -76,7 +76,7 @@ Pretty simple, but it will show how this all works.
 
 ### Create-Folder runbook
 
-![](/assets/images/2015/04/2015-04-12_23-09-42.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-12_23-09-42.png)
 
 Create a new runbook called **Create-Folder** and use the script below for the content.
 
@@ -102,7 +102,7 @@ The rest of the code should be pretty self-explanatory.
 
 The final step is to publish the Create-Folder runbook to allow it to be called from the Azure-AD-Test runbook. This is done by clicking on **Publish** from the bottom tool bar.
 
-![](/assets/images/2015/04/2015-04-21_22-56-46.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-21_22-56-46.png)
 
 ### Azure-AD-Test runbook
 
@@ -119,19 +119,19 @@ So what is happening in this runbook?
 
 This can be tested without publishing, by clicking on **Test**.
 
-![](/assets/images/2015/04/2015-04-21_22-56-48.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-21_22-56-48.png)
 
 Before it starts *(yes it does take a while as it does a lot behind the scenes)*, lets look at the C:\ on the azureautodemo VM to see the list of folders.
 
-![](/assets/images/2015/04/2015-04-21_22-56-47.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-21_22-56-47.png)
 
 The runbook will eventually run. Unfortunately any runbook testing takes a long time to execute. I recall reading somewhere that a local application might be released soon that allows us to test runbook scripts locally first before uploading to Azure. This should help make testing more time effective!
 
-![](/assets/images/2015/04/2015-04-21_23-37-12.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-21_23-37-12.png)
 
 Eventually the folder is created!
 
-![](/assets/images/2015/04/2015-04-21_23-36-50.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/04/2015-04-21_23-36-50.png)
 
 ## Conclusion
 While just creating a folder is rather basic, it does highlight how you can easily create scripts with parameters that you can use to run PowerShell on remote VMs.

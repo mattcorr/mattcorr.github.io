@@ -17,7 +17,7 @@ After some internal investigations and tickets with Atlassian, there are some op
 
 ## Set the database to simple recovery model
 After just over a year of use and less than 100 users, the log file for the database was 6GB! This is exceptionally large and made backups and restores very time consuming.
-![](/assets/images/2015/06/confluence-db-model2.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2015/06/confluence-db-model2.png)
 
 * Open **SQL Server Management Studio**
 * Select the Confluence database, right click and select **Properties**

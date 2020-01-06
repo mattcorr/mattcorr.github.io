@@ -9,7 +9,7 @@ My name is Matt Corr, currently working for [DPE (Deloitte Platform Engineering)
 
 I have created this blog to share my DevOps and automation experiences with the wider community. 
 
-![](/assets/images/2019/mcorr_med-01.jpg)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/general/mcorr_med-01.jpg)
 
 I have been in the IT industry for over nineteen years now. I have worked with many industries such as banking, transport, police and military. For about the last five years I have focused almost solely in the DevOps area in the Microsoft space. I frequently use products like TeamCity, Octopus Deploy and Azure DevOps with a good amount of PowerShell scripting thrown in to magically glue together the different systems or just make my life easier.
 

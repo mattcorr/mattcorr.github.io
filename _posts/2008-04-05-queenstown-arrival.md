@@ -1,9 +1,9 @@
 ---
 title:  "Queenstown - Arrival and the Gondola"
 header:
- image: /assets/images/2008/04/queenstown-header.jpg
+ image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2008/04/queenstown-header.jpg
  caption: "View from the Queenstown Gondola, 2008"
- teaser: /assets/images/2008/04/queenstown-tn.jpg
+ teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2008/04/queenstown-tn.jpg
 excerpt: "DFirst post of our week long stay at Queenstown"
 categories: 
   - Blog
@@ -15,17 +15,17 @@ categories:
 
 On the 5th of March, we left Wanaka and drove to Queenstown. Again the day was very overcast, but there were some impressive views from some lookouts along the way.
 
-![Terrain on the drive from Wanaka to Queenstown](/assets/images/smugmug/IMG_6435.jpg)
+![Terrain on the drive from Wanaka to Queenstown](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6435.jpg)
 
-![Femke on the edge](/assets/images/smugmug/IMG_6450.jpg)
+![Femke on the edge](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6450.jpg)
 
 ## Arrowtown
 
 On the way to Queenstown, there is a small old style town called Arrowtown. We stopped there to see what it was all about. Basically it has one main street that has lots of shop facades done up like it was the 1800's gold rush times. Of course inside each shop are people who want to sell you overpriced souvenirs. There were some original huts from that era from the Chinese settlers which was rather interesting to see. As you can see from the photo the Chinese were even smaller back then too! :)
 
-![Arrowtown street](/assets/images/smugmug/IMG_0238.jpg)
+![Arrowtown street](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_0238.jpg)
 
-![Me seeing how small the buildings were](/assets/images/smugmug/IMG_0239.jpg)
+![Me seeing how small the buildings were](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_0239.jpg)
 
 ## The boots
 
@@ -39,10 +39,10 @@ I first needed to do some research on the net to determine for sure which boots 
 
 Right near the camp site is the base for the Queenstown Gondola, so after placing the order for the boots, we saw it was a glorious day so we went up the Gondola. The views were absolutely incredible! We spent a bit of time up there looking around, walking up higher, just relaxing and watching some para-sailers take off.
 
-![Great shot of us at the top of the Queenstown gondola](/assets/images/smugmug/IMG_6479.jpg)
+![Great shot of us at the top of the Queenstown gondola](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6479.jpg)
 
-![Stunning views at queenstown](/assets/images/smugmug/IMG_6583.jpg)
+![Stunning views at queenstown](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6583.jpg)
 
-![Paraglider in action](/assets/images/smugmug/IMG_6510.jpg)
+![Paraglider in action](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6510.jpg)
 
-![CLose up of paraglider](/assets/images/smugmug/IMG_6546.jpg)
+![CLose up of paraglider](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_6546.jpg)

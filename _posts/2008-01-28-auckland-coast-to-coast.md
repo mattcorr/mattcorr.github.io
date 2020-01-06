@@ -1,7 +1,7 @@
 ---
 title:  "Auckland Coast to Coast walk"
 header:
-  image: /assets/images/2008/01/IMG_4110-header.jpg
+  image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2008/01/IMG_4110-header.jpg
 excerpt: "Info about our first serious decent walk in Auckland, New Zealand"
 categories: 
   - Blog
@@ -14,6 +14,6 @@ More info and a map is [here](https://www.aucklandcouncil.govt.nz/parks-recreati
 
 My hiking boots caused me all sorts of pain again. I am really hoping this is just part of the wearing in of the boots and I did not get a pair of boots too small. We have a lot of hikes coming up on our way to Wellington and in the south island and I really need to be able to wear them all day comfortably!
 
-![View on the hike](/assets/images/smugmug/IMG_4127.JPG)
+![View on the hike](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_4127.JPG)
 
 

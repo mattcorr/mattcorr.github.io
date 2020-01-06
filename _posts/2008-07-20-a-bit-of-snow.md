@@ -15,7 +15,7 @@ Driving back home was indeed a fun experience. We had to slow right down and vis
 
 I did manage to take a photo of our window so you could see the build-up of ice.
 
-![Ice on the window](/assets/images/smugmug/IMG_9597.jpg)
+![Ice on the window](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/smugmug/IMG_9597.jpg)
 
 Fem also used the laptop a bit later on and she needed my thick sleeping bag to keep herself warm.
 

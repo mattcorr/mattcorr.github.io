@@ -1,7 +1,7 @@
 ---
 title:  "Using Azure Automation & PowerShell for Slack channel notifications"
 header:
-    image: "/assets/images/2016/03/header01.jpg"
+    image: "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/header01.jpg"
     caption: "Able Tasman Hike, New Zealand, 2008"
 excerpt: "Details how you can trigger slack notifications from Azure Automation from any data source. For this example, I use a user controlled table in an Atlassian Confluence wiki."
 categories: 
@@ -24,7 +24,7 @@ For this post I will demonstrate how you can get daily notifications in your [Sl
 ## Confluence Table
 First we need a table on a Confluence page. If you want to use confluence for this and don't have a site to use, Atlassian have [free trials](https://www.atlassian.com/software/confluence/try) available.
 
-![](/assets/images/2016/03/2016-03-11_09-11-14.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_09-11-14.png)
 
 The above shows a sample table, with columns for the person's name, birthday and when they joined the company. There is also an additional column for if we show their age in the Slack message as some people might be sensitive about broadcasting their age to everyone!
 
@@ -38,27 +38,27 @@ If you don't already have a Slack team, you can join for free on [their homepage
 
 Once you have a Slack team with the two default channels of `#general` and `#random`, click on the team name at the top left. Select **Apps & Custom Integrations**
 
-![](/assets/images/2016/03/2016-03-11_09-57-24-1.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_09-57-24-1.png)
 
 Select **Build your Own** from the top right.
 
-![](/assets/images/2016/03/2016-03-11_10-12-41.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_10-12-41.png)
 
 We will be creating an integration for just our team. Click on **Make a Custom Integration**.
 
-![](/assets/images/2016/03/2016-03-11_10-12-53.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_10-12-53.png)
 
 There are four different custom integration types available for Slack. The one we will be utilising is the Incoming WebHooks. Click on **Incoming WebHooks**.
 
-![](/assets/images/2016/03/2016-03-11_10-13-05.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_10-13-05.png)
 
 Select a default Channel. (this can be changed later) and click on **Add Incoming WebHooks Integration**.
 
-![](/assets/images/2016/03/2016-03-11_10-13-19.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_10-13-19.png)
 
 Make sure you take a copy of the URL for the webhook as that is needed later.
 
-![](/assets/images/2016/03/2016-03-11_10-13-40.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_10-13-40.png)
 
 The Slack API documentation is excellent. I would highly recommend reading the rest of this page to see what kind of features you can add to your custom integration!
 
@@ -85,7 +85,7 @@ Don't be too concerned about putting your password into a test script. Once we m
 
 Once those six variables are set correctly, you should be able to run the PowerShell script locally and see the output displayed in your slack channel.
 
-![](/assets/images/2016/03/2016-03-11_12-19-20.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_12-19-20.png)
 
 ### Notes about the script
 There are two interesting *gotchas* in the script that I will point out.
@@ -94,7 +94,7 @@ Since what we are doing is date based calculations, it is advisable to convert a
 
 As it currently stands, if you use `Invoke-WebRequest` using standard parameters in an Automation script, you will get the following error:
 
-![](/assets/images/2016/03/2016-03-11_12-38-26.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-11_12-38-26.png)
 
 As the error message states, we can just add `-UseBasicParsing` to our commands and it's all good? Well not quite. 
 When you add that switch, it actually changes the returned object type. From a `Microsoft.PowerShell.Commands.HtmlWebResponseObject` to a `Microsoft.PowerShell.Commands.BasicHtmlWebResponseObject`, so you need to be aware of what properties you can play with in the object.
@@ -123,27 +123,27 @@ First, log into the Microsoft Azure Portal.
 ### Create Automation Account
 Add a new Automation Account, via the **+** on the main page. Click on **Create**.
 
-![](/assets/images/2016/03/2016-03-12_10-43-34.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-43-34.png)
 
 Create a new Automation account.  Give it a name and select a location that is nearby and click on **Create**.
 
-![](/assets/images/2016/03/2016-03-12_10-44-06.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-44-06.png)
 
 The Automation account panel will appear. Click on the **Runbooks** button. Then click on **Add a runbook**.
 
-![](/assets/images/2016/03/2016-03-12_10-44-56.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-44-56.png)
 
 Click on **Create a new runbook**. Enter a name, set the runbook type to **PowerShell** and click **Create**.
 
-![](/assets/images/2016/03/2016-03-12_10-45-54.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-45-54.png)
 
 Cut and paste the copy of the PowerShell script you have tested locally with your variables to the screen. Make sure you click **Save** to save the runbook first and then click on the **Test pane** button.
 
-![](/assets/images/2016/03/2016-03-12_10-55-26.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-55-26.png)
 
 Click on the **Start** button and you should see the log output appear in the output panel the same as you did when you tested it locally.
 
-![](/assets/images/2016/03/2016-03-12_10-57-09.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_10-57-09.png)
 
 You should also see the notifications appear in your Slack channel.
 
@@ -152,11 +152,11 @@ Now it's obviously bad practice to hard code variables into your scripts! So we 
 
 Side the portal window back to the automation main panel. Click on **Assets**. Click on **Variables**.
 
-![](/assets/images/2016/03/2016-03-12_11-00-40.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-00-40.png)
 
 Click **Add a variable**. Set the **Name** and **Value**. You can optionally set the Description too. Click on **Create**.
 
-![](/assets/images/2016/03/2016-03-12_11-03-47.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-03-47.png)
 
 Add the following five variables
 
@@ -170,15 +170,15 @@ Finally we need to add the Wiki password. Since this is obviously a sensitive fi
 
 Yes the password will *initially be visible* when you type it in, but once you click **Create**, you won't be able to see it again. 
 
-![](/assets/images/2016/03/2016-03-12_11-05-50.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-05-50.png)
 
 If you try to edit the password, you will get a masked string to edit.
 
-![](/assets/images/2016/03/2016-03-12_11-06-30.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-06-30.png)
 
 After setting up all the variables, your **Asset->Variables** panel should look something like this:
 
-![](/assets/images/2016/03/2016-03-12_11-06-06.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-06-06.png)
 
 Asset variables are great to use as they allow users to update the values without having to touch the scripts that utilise them. This is also good for deployments of scripts across different environments as only the asset variable values would need to change.
 
@@ -188,20 +188,20 @@ Edit the runbook again.
 
 Delete all the hard coded values for the six variables. Move the cursor to just after the "=" of the the first variable. On the left expand out **ASSETS** and **Variables**. For the variable on the line where the cursor is, right click and select **Add "Get Variable" to canvas**.
 
-![](/assets/images/2016/03/2016-03-12_11-40-34.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-40-34.png)
 
 This will insert in code for getting the value from the Automation Asset.
 
-![](/assets/images/2016/03/2016-03-12_11-40-45.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-40-45.png)
 
 Repeat this for the other five variables. You should end up with something like this:
 
-![](/assets/images/2016/03/2016-03-12_11-41-11.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-41-11.png)
 
 *It is worth double checking that you link up the right asset variables to the PowerShell script variables! *
 Thats it! Save the file and test it again via the Test Pane to confirm it still works.
 
-![](/assets/images/2016/03/2016-03-12_11-46-11.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-46-11.png)
 
 ### Automation Schedule
 
@@ -211,7 +211,7 @@ All that remains is to add a schedule so this runbook is triggered every day to 
 But we first need to publish our runbook before we can add a schedule to it. 
 We do this by clicking the **Publish** button on the edit runbook panel. Click on **Yes** to confirm.
 
-![](/assets/images/2016/03/2016-03-12_11-51-30.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-51-30.png)
 
 Go back the panel for the runbook we have been editing. 
 Click on **Schedules**.
@@ -222,15 +222,15 @@ Give the schedule a name and set it to start at say 8:00am the following day.
 Set the recurrence to Daily and never expire.
 Click on **Create**.
 
-![](/assets/images/2016/03/2016-03-12_11-53-20.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-53-20.png)
 
 This will create the schedule. To confirm the linking of it to the runbook. Click on **OK**.
 
-![](/assets/images/2016/03/2016-03-12_11-54-38.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-54-38.png)
 
 Back at the runbook panel screen the Schedule counter should increment to 1.
 
-![](/assets/images/2016/03/2016-03-12_11-54-52.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_11-54-52.png)
 
 This completes the setup of the schedule to the runbook!
 
@@ -238,7 +238,7 @@ You will be able to track the jobs over time via the Azure portal and see the ou
 
 *NOTE: A job is an instance of a runbook being executed.*
 
-![](/assets/images/2016/03/2016-03-12_12-00-09.png)
+![](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/03/2016-03-12_12-00-09.png)
 
 This completes this demo! I hope this shows how quick and easily you can utilise Azure Automation for automating notifications from anything to anything!
 

@@ -9,7 +9,7 @@ categories:
 ---
 This is a recent shot I took of Brisbane. Turned out alright hey? _(I thought)_
 
-![Brisbane CBD](/assets/images/2006/06/IMG-2639.jpg)
+![Brisbane CBD](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2006/06/IMG-2639.jpg)
 
 I am also currently testing the Blog This feature from a new version of [Picasa](https://picasa.google.com.au). Just seeing how well integrated it all is.
 The mapping feature which links Picasa with [Google Earth](https://www.google.com/earth/) is stunning.
