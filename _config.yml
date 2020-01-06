@@ -20,7 +20,7 @@ title                    : "Intrepid Integration"
 title_separator          : "-"
 subtitle                 : "All things automation and integration"
 name                     : "Matt Corr"
-description              : "Descriptiopn goes here"
+description              : "Description goes here"
 url                      : "https://www.intrepidintegration.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattcorr.github.io"
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Corr"
-  avatar           : "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/bioshot.jpg"
+  avatar           : "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/general/bioshot.jpg"
   bio              : "Automation is my passion"
   location         : "Brisbane, Australia"
   email            : matt.corr@gmail.com
