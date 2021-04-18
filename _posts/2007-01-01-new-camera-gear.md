@@ -23,6 +23,4 @@ and
 
 ![Fence post bokeh](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2007/01/120193433-M.jpg)
 
-Some samples of shots I have shot are available on my [smugmug site](http://photos.mattcorr.com/).
-
 I look forward to using this lens in the future. More to come.

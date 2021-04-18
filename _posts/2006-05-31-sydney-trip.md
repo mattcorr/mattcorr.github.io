@@ -28,5 +28,3 @@ Got some awesome night time shots from Hyde Park and Mr MacQuaries Chair (also r
 * Flew back to the Gold Coast and then drove back to Brisbane.
 
 By the end of the weekend, my feet and legs were all sore, I had the beginning of a cold and I was so utterly tired. Would I do it all again? Oh yeah!!
-
-To see the photo galleries for the trip, go [here](http://photos.mattcorr.com/Travel/Weekend-at-Sydney).

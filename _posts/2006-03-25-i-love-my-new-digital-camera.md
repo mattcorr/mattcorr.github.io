@@ -9,7 +9,6 @@ categories:
 As most who know me will know, I am heavily into digital photography. About a week ago I picked up a new [Canon 30D](http://www.dpreview.com/news/0602/06022114canoneos30d.asp), which will replace my aging [Canon 300D](https://www.dpreview.com/reviews/canoneos300d/).
 
 Don’t get me wrong.. the 300D is a very good camera… but the 30D. **Oh my GOD! It is awesome!**
-I have a few galleries now. These can be found [here](http://photos.mattcorr.com).
 
 The main features I like about the 30D:
 

@@ -9,9 +9,7 @@ On the weekend I was invited out to take some shots of a friend of mine Steve, o
 
 This was also a good chance for me to play with my 30D and [the 70-300mm IS lens](https://www.canon.com.au/camera-lenses/ef-70-300mm-f-4-5-6-is-usm) on some good action shots.
 
-The results were stunning. The speed of the 30D combined with the power of the IS produced some awesome shots..
-
-The whole image gallery is [here](http://photos.mattcorr.com/Sports/Fun-with-Dirt-Bikes/).
+The results were stunning. The speed of the 30D combined with the power of the IS produced some awesome shots.
 
 Some sample shots:
 

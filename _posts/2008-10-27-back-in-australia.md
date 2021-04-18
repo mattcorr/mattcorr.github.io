@@ -12,8 +12,6 @@ Fem and I are now back in Australia. we are now in the last week of our three we
 
 I do admit I have neglected the blog a bit since that last big post about the Whanganui River trip. We have been extremely busy and just have not had a chance to spend time on it.
 
-I have created a best of gallery of all the photos I took while in new Zealand. You can view it on my smugmug site [here](http://photos.mattcorr.com/New-Zealand/Best-of-New-Zealand). This will show all the great photos taken since Napier.
-
 We have been catching up and friends, relatives and family for the last two weeks. I have also had to sort out tax, insurance and now car issues which are not always fun but need to be done.
 
 Looking back, the entire New Zealand trip was definitely the greatest adventure I have been on. Now we are on our way to do it all again in Europe!
