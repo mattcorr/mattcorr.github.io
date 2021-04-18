@@ -12,7 +12,7 @@ categories:
 ---
 
 
-# Summary
+## Summary
 When setting up a new BizTalk environment, often there is a list of client-specific Hosts to be created.
 
 By default, BizTalk one Host defined. 
@@ -24,11 +24,11 @@ This can all be performed via the BizTalk Administration console, but this will 
 
 This triggered my Automation passion, so I have come up with a script that handles all this for you.
 
-# How does it work?
+## How does it work?
 
 This uses an xml configuration file that contains the host, instances and handlers to create in your BizTalk environment. There are PowerShell scripts used to load the configuration file and either create or remove the artefacts as needed.
 
-## XML Configuration
+### XML Configuration
 See below for a sample:
 
 NOTE: You can use from the xml below or from the GitHub location [here](https://github.com/mattcorr/powershell-scripts/tree/master/BizTalk/Hosts).
@@ -71,17 +71,17 @@ NOTE: You can use from the xml below or from the GitHub location [here](https://
 
 The following nodes will need customisation for your specific environment
 
-### Host Node
+#### Host Node
 * **name** = the name of the host
 * **group** = the local or domain group for this host
 * **islocated/tracking/Is32Bit/trusted** = boolean flags you can set for each host
 
-### Instance Node
+#### Instance Node
 * **server** = the server name to install a host instance 
 * **account** = the account the host instance runs as
 * **password** = the password for the account
 
-### Adapters
+#### Adapters
 The list of BizTalk Adapters to create handlers for based on the defined Hosts
 There are boolean toggles for if the send and receive are to be created. It is not expected these should change.
 
