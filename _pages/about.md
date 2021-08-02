@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-My name is Matt Corr, currently working for [DPE (Deloitte Platform Engineering)](https://www2.deloitte.com/au/en/pages/technology/solutions/deloitte-platform-engineering.html) as a Senior Consultant in sunny Brisbane, Australia.
+My name is Matt Corr, currently working for [MOQdigital](https://www.moqdigital.com.au) as a "Solution Specialist - DevOps" in sunny Brisbane, Australia.
 
 I have created this blog to share my DevOps and automation experiences with the wider community. 
 
