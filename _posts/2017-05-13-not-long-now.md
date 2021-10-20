@@ -8,7 +8,7 @@ tags:
 Not long now until the arrival of our second child.
 We dont know the sex so it will be a surprise for both of us!
 
-![Setting up the cot again.](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2017/05/IMG_0006.JPG)
+![Setting up the cot again.](https://blogresourcestorage.blob.core.windows.net/images/2017/05/IMG_0006.JPG)
 
 We have been setting up the baby room and all the bits and pieces that go with it.
 

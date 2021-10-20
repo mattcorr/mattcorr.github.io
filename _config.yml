@@ -24,8 +24,8 @@ description              : "Description goes here"
 url                      : "https://www.intrepidintegration.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mattcorr.github.io"
-teaser                   : "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/general/defaulttease.jpg"
-logo                     : # path of logo image to display in the masthead, e.g. "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/88x88.png"
+teaser                   : "https://blogresourcestorage.blob.core.windows.net/images/general/defaulttease.jpg"
+logo                     : # path of logo image to display in the masthead, e.g. "https://blogresourcestorage.blob.core.windows.net/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Corr"
-  avatar           : "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/general/bioshot.jpg"
+  avatar           : "https://blogresourcestorage.blob.core.windows.net/images/general/bioshot.jpg"
   bio              : "Automation is my passion"
   location         : "Brisbane, Australia"
   email            : matt.corr@gmail.com
