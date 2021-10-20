@@ -112,9 +112,6 @@ author:
   location         : "Brisbane, Australia"
   email            : matt.corr@gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:matt.corr@gmail.com
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://github.com/mattcorr/resume/blob/master/matt-corr-resume.md"
