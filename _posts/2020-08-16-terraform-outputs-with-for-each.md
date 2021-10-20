@@ -2,9 +2,9 @@
 title:  "How to define output values for dynamically created terraform resources"
 excerpt: "Not sure how to get output details with for_each loop created terraform resources? Use the zipmap function."
 header:
- image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2020/08/dove-lake-hd.jpg
+ image: https://blogresourcestorage.blob.core.windows.net/images/2020/08/dove-lake-hd.jpg
  caption: "Dove Lake, Cradle Mountain, Tasmania"
- teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2020/08/dove-lake-tn.jpg
+ teaser: https://blogresourcestorage.blob.core.windows.net/images/2020/08/dove-lake-tn.jpg
 categories: 
   - Tech
 tags:

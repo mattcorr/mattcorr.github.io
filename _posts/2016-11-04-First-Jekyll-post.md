@@ -1,7 +1,7 @@
 ---
 title:  "First Jekyll Blog Post!"
 header:
-  image: "https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2016/12/jekyll-header.jpg"
+  image: "https://blogresourcestorage.blob.core.windows.net/images/2016/12/jekyll-header.jpg"
 excerpt: "Why I migrated to Jekyll from Ghost."
 categories: 
   - Jekyll

@@ -2,9 +2,9 @@
 title:  "How to reference data objects via for_each with Terraform"
 excerpt: "See how you can easily reference more complex data types with the for_each command in Terraform."
 header:
- image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/wairoatown-hd.jpg
+ image: https://blogresourcestorage.blob.core.windows.net/images/2019/12/wairoatown-hd.jpg
  caption: "Wairoa, New Zealand"
- teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/wairoatown-tb.jpg
+ teaser: https://blogresourcestorage.blob.core.windows.net/images/2019/12/wairoatown-tb.jpg
 categories: 
   - Tech
 tags:

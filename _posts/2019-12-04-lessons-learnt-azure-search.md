@@ -2,8 +2,8 @@
 title:  "Lessons learnt from deploying Azure Search via CI-CD"
 excerpt: "Learn about how you can overcome some limitations when deploying Azure Search Service indexes via your CI/CD automation pipeline."
 header:
- image: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/azure-search-index-header.png
- teaser: https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/azure-search-index-tn.png
+ image: https://blogresourcestorage.blob.core.windows.net/images/2019/12/azure-search-index-header.png
+ teaser: https://blogresourcestorage.blob.core.windows.net/images/2019/12/azure-search-index-tn.png
 categories: 
   - Tech
 tags:
@@ -72,7 +72,7 @@ To create your search indexes, you can either use the Azure Portal or you can cr
 
 The Azure Portal is a good way to get started. You can design your index and ensure all the correct properties are there.
 
-![Azure Search Index UI](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/azure-search-index.png)
+![Azure Search Index UI](https://blogresourcestorage.blob.core.windows.net/images/2019/12/azure-search-index.png)
 
 In this modern era, it is preferable to have the indexes either created or exported from the web portal as JSON files. These files should be part of a git repository which is linked to build and deploy pipelines. When it gets to the deployment pipeline, the files will be picked up and applied to the search service.
 
@@ -157,7 +157,7 @@ To bypass this issue, your deployment script will need to take into account thes
 
 If you use the script or some variation of it, in your deployment pipeline, it will pause after deploying 20 indexes and resume again 2 minutes later. This will repeat until all indexes have been deployed.
 
-![PowerShell script output sample](https://blog-ii-images.s3-ap-southeast-2.amazonaws.com/2019/12/2019-10-01_14-31-10.png)
+![PowerShell script output sample](https://blogresourcestorage.blob.core.windows.net/images/2019/12/2019-10-01_14-31-10.png)
 
 So why is this limitation there in the first place? I have asked Microsoft Support and *(as of the date this blog was published)* there has been no reasonable response.
 
