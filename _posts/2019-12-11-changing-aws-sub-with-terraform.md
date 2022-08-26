@@ -2,9 +2,9 @@
 title:  "One thing to do if AWS accounts are changed on your Terraform project"
 excerpt: "Getting puzzled by permissions issues when you change AWS accounts on an existing terraform project?  See how to fix this issue quickly!"
 header:
- image: https://blogresourcestorage.blob.core.windows.net/images/2019/12/blue+lake-hd.jpg
+ image: https://blogresourcestorage.blob.core.windows.net/images/2019/12/blue%20lake-hd.jpg
  caption: "Lake Tikitapu (near Rotorua), New Zealand"
- teaser: https://blogresourcestorage.blob.core.windows.net/images/2019/12/blue+lake-tn.jpg
+ teaser: https://blogresourcestorage.blob.core.windows.net/images/2019/12/blue%20lake-tn.jpg
 categories: 
   - Tech
 tags:
