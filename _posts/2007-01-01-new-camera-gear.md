@@ -17,10 +17,10 @@ I love this lens. It is most likely my new main lens. with the 17-40 L now for w
 
 Some sample shots so far are:
 
-![Redcliffe fireworks](https://blogresourcestorage.blob.core.windows.net/images/2007/01/119785490-M.jpg)
+![Redcliffe fireworks](https://mcblogfiles.blob.core.windows.net/images/2007/01/119785490-M.jpg)
 
 and
 
-![Fence post bokeh](https://blogresourcestorage.blob.core.windows.net/images/2007/01/120193433-M.jpg)
+![Fence post bokeh](https://mcblogfiles.blob.core.windows.net/images/2007/01/120193433-M.jpg)
 
 I look forward to using this lens in the future. More to come.

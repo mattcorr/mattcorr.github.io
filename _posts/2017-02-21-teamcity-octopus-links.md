@@ -1,7 +1,7 @@
 ---
 title:  "Guest Blog post - Linking Team City and Octopus Deploy"
 header:
-  image: "https://blogresourcestorage.blob.core.windows.net/images/2017/02/teamcity-octo-header.jpg"
+  image: "https://mcblogfiles.blob.core.windows.net/images/2017/02/teamcity-octo-header.jpg"
 excerpt: "Check out a blog post covering TeamCity and Octopus Deploy that I wrote for the Deloitte site."
 categories: 
   - Mexia

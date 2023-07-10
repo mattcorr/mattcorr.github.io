@@ -1,9 +1,9 @@
 ---
 title:  "Fox Glacier"
 header:
- image: https://blogresourcestorage.blob.core.windows.net/images/2008/03/IMG_6125-header.jpg
+ image: https://mcblogfiles.blob.core.windows.net/images/2008/03/IMG_6125-header.jpg
  caption: "Our animals enjoying the view, Fox Glacier, 2008"
- teaser: https://blogresourcestorage.blob.core.windows.net/images/2008/03/IMG_6125-tn.jpg
+ teaser: https://mcblogfiles.blob.core.windows.net/images/2008/03/IMG_6125-tn.jpg
 excerpt: "Several days at Fox Glacier and taking in the local sights."
 categories: 
   - Blog
@@ -14,25 +14,25 @@ categories:
 
 We decided to go to Lake Matheson first to get some highly recommended lake reflection shots before the wind got up. We did very well as these shots below show!
 
-![Mountains from Lake Matheson](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5965.jpg) 
+![Mountains from Lake Matheson](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5965.jpg) 
  
 On the way back to the car, the clouds cleared from over Mt Cook, so I was able to get a mostly clear shot of it with my zoom.
 
-![Photo of Mt Cook](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6013.jpg) 
+![Photo of Mt Cook](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6013.jpg) 
 
 Afterwards we went to the Fox glacier itself and it was truly a stunning sight. The walk was not too far, and it took you so close to the terminal face of the glacier itself. The whole area had an impressive rugged beauty feel about it all. I really enjoyed this place and think it might have the edge over the Franz Josef glacier overall.
 
-![Fox glacier](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6039.jpg)
+![Fox glacier](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6039.jpg)
 
-![Close up of Fox Glacier](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6071.jpg)
+![Close up of Fox Glacier](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6071.jpg)
 
-![Interesting blue ice](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6053.jpg)  
+![Interesting blue ice](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6053.jpg)  
 
-![Us in front of Fox Glacier](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6079.jpg) 
+![Us in front of Fox Glacier](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6079.jpg) 
 
 Here near the car park there is an incredible landslide that happened thousands of years ago but the sheer size and scale of it just takes your breath away!
 
-![Impressive landslide](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_6117.jpg)
+![Impressive landslide](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_6117.jpg)
 
 That night the weather reports were forecasting heavy rain for Friday morning. After some consideration we decided to have a rest day on Friday and upgrade our accommodation from a tent to a cabin so Fem could actually get some sleep _(Me? I take my hearing aids out and will be able to sleep through a heavy thunder storm)_ and because we had planned on doing the Copland track _(a 2 day hike)_.
 

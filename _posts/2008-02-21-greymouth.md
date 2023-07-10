@@ -1,9 +1,9 @@
 ---
 title:  "Greymouth"
 header:
- image: https://blogresourcestorage.blob.core.windows.net/images/2008/02/IMG_5364-header.jpg
+ image: https://mcblogfiles.blob.core.windows.net/images/2008/02/IMG_5364-header.jpg
  caption: "Coast road north of Greymouth, 2008"
- teaser: https://blogresourcestorage.blob.core.windows.net/images/2008/02/IMG_5364-tn.jpg
+ teaser: https://mcblogfiles.blob.core.windows.net/images/2008/02/IMG_5364-tn.jpg
 excerpt: "It was a stunning drive from Westport to Greymouth."
 categories: 
   - Blog
@@ -13,15 +13,15 @@ categories:
 On the 21st of February, after 3 days rest we set off to Greymouth for another 3 nights of low activity to help wait out my infection recovery time.
 The coastal drive from Westport to Greymouth is _stunning_. It’s a lot like the Great Ocean Road just south west of Melbourne.
 
-![Road to Greymouth](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5361.jpg)
+![Road to Greymouth](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5361.jpg)
 
-![Impressive shoreline](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5426.jpg)
+![Impressive shoreline](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5426.jpg)
 
 There is also the blowhole at the Pancake rocks that sprays out seawater at high tide and when the ocean is rough. But the weather was great and the sea was flat so we didn't see any that day even when we waited for high tide. Very interesting rock formations though.
 
-![Unusual rock formations](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5387.jpg)
+![Unusual rock formations](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5387.jpg)
 
-![More weird rocks](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5404.jpg)
+![More weird rocks](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5404.jpg)
 
 After arriving at Greymouth, we at first had a lot of trouble finding accommodation for 3 nights. We checked all the major hostels and they all either
 a) had rooms spare and were crap or
@@ -33,8 +33,8 @@ The day after we drove out to Lake Brunner to check it out. We got some nice sho
 
 On the day before we left (and before a big storm) I went down to the nearby beach and took a few shots. I was intrigued by how desolate the beach felt at that time.
 
-![Greymouth Beach](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5607.jpg)
+![Greymouth Beach](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5607.jpg)
 
-![Greymouth Beach 2](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_5612.jpg)
+![Greymouth Beach 2](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_5612.jpg)
 
 We are both itching to see some glaciers and that is next on the list. After Greymouth we will be seeing the Franz Josef and Fox glaciers. Can't wait for them!

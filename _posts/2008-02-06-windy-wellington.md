@@ -1,9 +1,9 @@
 ---
 title:  "Windy Wellington"
 header:
- image: https://blogresourcestorage.blob.core.windows.net/images/2008/02/IMG_4522-header.jpg
+ image: https://mcblogfiles.blob.core.windows.net/images/2008/02/IMG_4522-header.jpg
  caption: "View from Mount Kaukau, Wellington, 2008"
- teaser: https://blogresourcestorage.blob.core.windows.net/images/2008/02/IMG_4522-tn.jpg
+ teaser: https://mcblogfiles.blob.core.windows.net/images/2008/02/IMG_4522-tn.jpg
 excerpt: "Catching up with Jeff, Cath, Jarrod and Jack in Wellington"
 categories: 
   - Blog
@@ -17,13 +17,13 @@ While in Wellington we got the auto electrics of **Magnum** _(the name we have g
 
 Other things we were able to do was to meet Jeff's new gorgeous blue heeler named Jack.
 
-![Jeff with Jack](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_4545.jpg)
+![Jeff with Jack](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_4545.jpg)
 
 We checked out the view from Mt Victoria.
 
-![Wellington City](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_4471.jpg)
+![Wellington City](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_4471.jpg)
 
 Also Cath took Fem and I up Mt Kaukau, for some much needed endurance training!
 
-![View from the mountain](https://blogresourcestorage.blob.core.windows.net/images/smugmug/IMG_4513.jpg)
+![View from the mountain](https://mcblogfiles.blob.core.windows.net/images/smugmug/IMG_4513.jpg)
 
