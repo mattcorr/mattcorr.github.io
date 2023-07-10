@@ -26,7 +26,7 @@ They recommended the [Dell Vostro](http://en.wikipedia.org/wiki/Dell_Vostro), wh
 
 So finally I thought of getting a lappie through my work, and our supplier usually deals with HP. I previously had avoided HP like the plague especially since when they had their [dark queen](http://en.wikipedia.org/wiki/Dell_Vostro) there for 6 years of hell. But since she got booted out in 2005, HP seem to have improved [significantly](http://finance.google.com/finance?q=NYSE:HPQ).
 
-![Redcliffe fireworks](https://blogresourcestorage.blob.core.windows.net/images/2007/11/compaq-6710b.jpg)
+![Redcliffe fireworks](https://mcblogfiles.blob.core.windows.net/images/2007/11/compaq-6710b.jpg)
 
 After some more research I found out their laptops are currently rather good. So I ended up buying my first HP device and am loving it immensely. It was the HP 6710b laptop. :)
 

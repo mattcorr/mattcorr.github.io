@@ -1,9 +1,9 @@
 ---
 title:  "Whanganui Canoe Trip"
 header:
-  image: https://blogresourcestorage.blob.core.windows.net/images/2008/09/IMG_0670-header.JPG
+  image: https://mcblogfiles.blob.core.windows.net/images/2008/09/IMG_0670-header.JPG
   caption: "Where we parked our canoe afterwards, 2008"
-  teaser: https://blogresourcestorage.blob.core.windows.net/images/2008/09/IMG_0670-tn.jpg
+  teaser: https://mcblogfiles.blob.core.windows.net/images/2008/09/IMG_0670-tn.jpg
 excerpt: "This is the story of the biggest adventure we had in our entire New Zealand travel holiday! We are just glad to have survived it!"
 categories: 
   - Blog
@@ -25,11 +25,11 @@ The owner and his assistant helped us into the canoes, and away we went. The sid
 
 For the first hour, things were well. Our progress was good, and we thought we had reasonable control of the canoe. I sensed my legs were getting tired from keeping the back end balanced. Fem had to shout out to me about the direction she wanted to travel. She was sitting in front of me, and with my hearing aids out, she was hard to hear. We saw plenty of wild goats on the sides, and the scenery was good. The water was very murky, and you could not see through it. Our speed was good, and I reckon it would have been about jogging speed.
 
-![Me in the canoe](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9140003-resize.jpg)
+![Me in the canoe](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9140003-resize.jpg)
 
-![The river on day 1](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9140001-resize.jpg)
+![The river on day 1](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9140001-resize.jpg)
 
-![Fem in the canoe](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9140007-resize.jpg)
+![Fem in the canoe](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9140007-resize.jpg)
 
 We passed the first campsite named Mangapapa. Then just over 1 hour into the trip, we came around a bend in the river. There did appear to be two river currents merging. We came across one and turned to line up with the other one but came in at an awkward angle. This angle caused the canoe to rock from side to side. Despite us both desperately trying to keep it level and the rocking under control, the canoe tipped over.
 
@@ -138,11 +138,11 @@ In hindsight, I was seriously worried about what would have happened if I didn't
 
 The photos below show Fem and me just when we arrived at the hut. The middle image is our landing zone at the John Coull hut.
 
-![Me when we first arrived at the hut ](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9140020-resize.jpg)
+![Me when we first arrived at the hut ](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9140020-resize.jpg)
 
-![Where we docked the boat ](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0670-resize.jpg)
+![Where we docked the boat ](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0670-resize.jpg)
 
-![Fem when she first arrived](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9140021-resize.jpg)
+![Fem when she first arrived](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9140021-resize.jpg)
 
 We were the only ones at the hut. We opened the barrels, and to our shock, 3 of the 5 barrels had water leakage. The barrel that I had cut loose contained my sleeping bag. At this point, I didn't care too much about the lost bag. I was glad we were out of the water and at the hut. If I had a choice of which barrel to "sacrifice", that would have been it. The two barrels that had remained dry contained our shoes, the food, my hearing aids, camera, wallet and matches. I was so happy my hearing aids were ok!
 
@@ -166,9 +166,9 @@ Fem has a sleep mid-afternoon while I read some of the magazines that were left 
 
 About two hours later, three Israeli Russians enter the hut. Michael, Kesnia and Boris. They kayaked our first leg of the river that day. Again they were shocked to hear of our story. They were experienced sea-kayakers, and on the day we set off, they had been denied entry on the river on the Sunday by other canoeing companies. They had only been allowed on the river that day due to their previous kayaking experience.
 
-![The view around the fireplace in the hut](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0663-resize.jpg)
+![The view around the fireplace in the hut](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0663-resize.jpg)
 
-![Us with the Israelis](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160059-resize.jpg)
+![Us with the Israelis](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160059-resize.jpg)
 
 By late afternoon, most of our clothes had been flame dried. So we are much more warmly clothed than the previous night. The rest of the day is spent resting, chatting with the new arrivals, playing travel scrabble (wet but functional), reading magazines or keeping the fire going.
 
@@ -182,9 +182,9 @@ The two pig hunters had returned the previous night and were camping in swags ou
 
 We said farewell to the Israelis at about 10:30 am. Then it was a slow process of waiting until we were rescued. Did the hunters get the message out in time? Will we be picked up today or tomorrow? I tell Fem that it will be too dark if they are not here by 5 pm, and we won't get rescued until the following day.
 
-![Fem waiting on day 3](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0693-resize.jpg)
+![Fem waiting on day 3](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0693-resize.jpg)
 
-![Me waiting on day 3](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0694-resize.jpg)
+![Me waiting on day 3](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0694-resize.jpg)
 
 The above photos were taken at 4 pm to show us just waiting and waiting and waiting.
 
@@ -198,19 +198,19 @@ We jumped in and off we went back the way we came. The river had dropped another
 
 The left side of photo 4 is a rough idea of the landing area where we first got the canoe out of the water. As you can see, it's mainly a steep grassy cliff with a small section sticking out at the end.
 
-![shots of river bank](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160107-resize.jpg)
+![shots of river bank](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160107-resize.jpg)
 
-![shots of river bank](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160112-resize.jpg)
+![shots of river bank](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160112-resize.jpg)
 
-![Where we fell out ](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160113-resize.jpg)
+![Where we fell out ](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160113-resize.jpg)
 
-![shots of river bank](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160120-resize.jpg)
+![shots of river bank](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160120-resize.jpg)
 
 There were large sections of the river _where there was no current at all_. It was like significant sections were just a pond and some sections with some current. We were annoyed. **This** was how the river should have been for us.
 
-![Fem on the jetboat on the way back ](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160126-resize.jpg)
+![Fem on the jetboat on the way back ](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160126-resize.jpg)
 
-![Me on the jetboat](https://blogresourcestorage.blob.core.windows.net/images/2008/09/p9160125-resize.jpg)
+![Me on the jetboat](https://mcblogfiles.blob.core.windows.net/images/2008/09/p9160125-resize.jpg)
 
 We got back to Whakahoro and got off the river. It was late in the evening, and the assistant's car had a flat battery, so we could not get back to our car. They offered to put us up in a nearby lodge for the night to which we accepted. Everyone was so helpful and friendly to us. They were all shocked to hear our story. After having a tasty meal of deer heart, liver and kidneys from a hunter's first kill, we settled in for a good night's sleep.
 
@@ -222,9 +222,9 @@ When we first arrived at the hut, we had initially been rather angry towards the
 
 We had not paid for the trip yet, and since he didn't bring it up on the car ride back, I didn't push it. Besides, we needed that money to get a new sleeping bag for me and a head torch for Fem.
 
-![The lodge where we stayed ](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0696-resize.jpg)
+![The lodge where we stayed ](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0696-resize.jpg)
 
-![The adventure is over](https://blogresourcestorage.blob.core.windows.net/images/2008/09/img-0706-resize.jpg)
+![The adventure is over](https://mcblogfiles.blob.core.windows.net/images/2008/09/img-0706-resize.jpg)
 
 We got back to our car and then left. This concludes our Whanganui Canoe Trip. If you have any questions, please let me know.
 

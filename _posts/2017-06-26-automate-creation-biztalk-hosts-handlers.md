@@ -1,9 +1,9 @@
 ---
 title:  "Automating BizTalk Hosts, Host Instances and Handlers"
 header:
- image: https://blogresourcestorage.blob.core.windows.net/images/2017/06/cathedralcove-header.jpg
+ image: https://mcblogfiles.blob.core.windows.net/images/2017/06/cathedralcove-header.jpg
  caption: "Cathedral Cove, New Zealand"
- teaser: https://blogresourcestorage.blob.core.windows.net/images/2017/06/cathedralcove-tn.jpg
+ teaser: https://mcblogfiles.blob.core.windows.net/images/2017/06/cathedralcove-tn.jpg
 excerpt: "Details how you can create your BizTalk Hosts, Host Instances and Adapter Handlers in seconds rather than hours!"
 categories: 
   - BizTalk

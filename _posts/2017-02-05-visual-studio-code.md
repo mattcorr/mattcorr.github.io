@@ -1,8 +1,8 @@
 ---
 title:  "Visual Studio Code"
 header:
-  image: "https://blogresourcestorage.blob.core.windows.net/images/2017/02/vscode.jpg"
-  teaser: "https://blogresourcestorage.blob.core.windows.net/images/2017/02/vscode-tn.jpg"
+  image: "https://mcblogfiles.blob.core.windows.net/images/2017/02/vscode.jpg"
+  teaser: "https://mcblogfiles.blob.core.windows.net/images/2017/02/vscode-tn.jpg"
 excerpt: "Why I recommend Visual Studio Code as your main text editor."
 categories: 
   - Software

@@ -9,7 +9,7 @@ My name is Matt Corr, currently working for [MOQdigital](https://www.moqdigital.
 
 I have created this blog to share my DevOps and automation experiences with the wider community. 
 
-![](https://blogresourcestorage.blob.core.windows.net/images/2021/08/matt-headshot-web.jpg)
+![](https://mcblogfiles.blob.core.windows.net/images/2021/08/matt-headshot-web.jpg)
 
 I have been in the IT industry for over twenty-two years now. I have worked with many industries such as banking, transport, police and military. For about the last five years I have focused almost solely in the DevOps area in the Microsoft space. I frequently use products like TeamCity, Octopus Deploy and Azure DevOps with a good amount of PowerShell scripting thrown in to magically glue together the different systems or just make my life easier.
 

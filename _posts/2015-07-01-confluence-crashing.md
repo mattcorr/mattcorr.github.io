@@ -20,10 +20,10 @@ Take note, ensure that when you install the new JRE, that you set the destinatio
 **NOTE:** If you use the system JRE for your confluence instance, then obviously ignore this section!
 {: .notice--warning}
 
-![](https://blogresourcestorage.blob.core.windows.net/images/2015/07/2015-07-01_21-59-13_01.png)
+![](https://mcblogfiles.blob.core.windows.net/images/2015/07/2015-07-01_21-59-13_01.png)
 Click on **Change Destination Folder**
 
-![](https://blogresourcestorage.blob.core.windows.net/images/2015/07/2015-07-01_21-59-14.png)
+![](https://mcblogfiles.blob.core.windows.net/images/2015/07/2015-07-01_21-59-14.png)
 Click on **Change** and set the Confluence\jre folder to your location then click on **Install**.
 
 That is all that is required. Restart your confluence service and you should not the crashing issues again.
