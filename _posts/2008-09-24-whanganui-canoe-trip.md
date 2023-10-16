@@ -228,4 +228,4 @@ We had not paid for the trip yet, and since he didn't bring it up on the car rid
 
 We got back to our car and then left. This concludes our Whanganui Canoe Trip. If you have any questions, please let me know.
 
-_(Blog post co-edited by Femke)_
+_- (Blog post co-edited by Femke)_
