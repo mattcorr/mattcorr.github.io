@@ -9,12 +9,13 @@ tags:
 ---
 
 ## So why use Azure Automation?
+
 Azure Automation is a quick and easy way to automate repeatable tasks against resources in your Azure account using PowerShell Workflow. No additional servers are required to host Automation as it is already handled automatically by Azure. Also if you already are experienced with PowerShell, you can use Automation already!
 
 The purpose of this article is to demonstrate how to run PowerShell on Remote Azure VMs via Azure Automation using Azure AD for authentication.
 {: .notice--info}
 
-PowerShell Workflow is a slightly cut down version of PowerShell that utilises runbooks as the PowerShell scripts that are executed to perform your tasks. 
+PowerShell Workflow is a slightly cut down version of PowerShell that utilises runbooks as the PowerShell scripts that are executed to perform your tasks.
 
 When you create a new runbook you are given an empty script to populate:
 
@@ -23,11 +24,13 @@ When you create a new runbook you are given an empty script to populate:
 The demo below will show some sample workflow runbook scripts.
 
 ### Where is automation used?
+
 Azure automation is utilised heavily at [Mexia](http://www.mexia.com.au) (the company I work for) for the backups and fail-overs for our [Confluence](http://www.atlassian.com) site. Our primary site is hosted on an Azure VM in Sydney _(the Australia East Azure region)_ and our secondary site on an Azure VM hosted in Melbourne _(the Australia South East Azure region)_.
 
 Every night we perform backups on the primary site and store them in Azure File Storage. Every week we toggle primary/secondary sites between Sydney and Melbourne. This allows us to test our fail-over processes frequently for peace of mind. All of these tasks are scheduled Azure Automation runbooks.
 
 ### Sounds great! So what's this about Azure AD?
+
 Originally we were using SSL certificates for authentication. But after [some research](http://blogs.msdn.com/b/microsoft_press/archive/2015/03/06/free-ebook-microsoft-azure-essentials-azure-automation.aspx), I found that utilising Azure AD was the preferred way of authentication for Azure Automation.
 
 After looking into it to see how it was done, I too am now a convert to this approach over SSL certificates. It is much easier to configure and less code is required to perform authentication. Originally I was going to blog about how to use Azure AD, but after discovering that Joe Levy has already covered this in great details via [his blog post here](http://azure.microsoft.com/blog/2014/08/27/azure-automation-authenticating-to-azure-using-azure-active-directory/), there no point  repeating what he has already covered.
