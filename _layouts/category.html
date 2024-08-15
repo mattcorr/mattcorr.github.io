@@ -1,9 +1,13 @@
+<!-- _layouts/category.html -->
 ---
-layout: archive
+layout: default
 ---
 
-{{ content }}
-
-<div class="entries-{{ page.entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=page.entries_layout %}
+<div class="page-content">
+  <h1>{{ page.title }}</h1>
+  <ul>
+    {% for category in site.categories %}
+      <li><a href="{{ site.baseurl }}/categories/{{ category | first | slugify }}">{{ category | first }} ({{ category | last | size }})</a></li>
+    {% endfor %}
+  </ul>
 </div>

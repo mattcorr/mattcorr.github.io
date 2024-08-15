@@ -1,10 +1,6 @@
 assets/fonts/* linguist-vendored
-<<<<<<< HEAD
-assets/js/vendor/* linguist-vendored
-=======
 assets/js/main.min.js linguist-vendored
 assets/js/lunr/* linguist-vendored
 assets/js/plugins/* linguist-vendored
 assets/js/vendor/* linguist-vendored
 _sass/minimal-mistakes/vendor/* linguist-vendored
->>>>>>> 39522e876fc2d6eeaee83fb0bf6a6776bfb1c869

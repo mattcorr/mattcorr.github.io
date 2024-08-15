@@ -15,6 +15,8 @@ If you want to see what it looks like, click here.
 
 I love this lens. It is most likely my new main lens. with the 17-40 L now for wide angle shots and the 70-300 IS USM for long shots.
 
+This is the new updated post!
+
 Some sample shots so far are:
 
 ![Redcliffe fireworks](https://mcblogfiles.blob.core.windows.net/images/2007/01/119785490-M.jpg)
