@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "Confluence 5.8.4 crashing unexpectedly?"
 header:
 categories: 

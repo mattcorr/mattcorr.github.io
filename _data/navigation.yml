@@ -4,19 +4,14 @@ main:
     url: /
   - title: "Travels"
     url: /travels/  
+    description: 
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+    description: "Put something good here, hey?"
   - title: "About"
     url: /about/
   - title: "TIL"
     url: https://til.intrepidintegration.com
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    target: _blank
