@@ -54,6 +54,7 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-include-cache
+  - jekyll-analytics
 
 defaults:
   # _pages
@@ -114,6 +115,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://www.github.com/mattcorr
+
+
+jekyll_analytics:
+  Plausible:
+    domain: 'blog.mattcorr.com'   # The domain configured in plausible
+    source: 'https://plausible.example.com/js/plausible.js' # The source of the javascript
 
 category_archive:
   type: liquid
