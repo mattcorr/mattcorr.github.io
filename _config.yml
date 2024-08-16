@@ -144,6 +144,7 @@ jekyll-archives:
 # Reading Files
 include:
   - .htaccess
+  - _includes/custom-head.html
   - _pages
 
 # exclude:
