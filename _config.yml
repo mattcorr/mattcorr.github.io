@@ -22,7 +22,7 @@ title: Matt Corr's Mindspace
 subtitle: Technical ramblings and experiences
 name: Matt Corr
 email: matt.corr@gmail.com
-site.description: >- # this means to ignore newlines until "baseurl:"
+site.description: >- # this means to ignore newlines until "url:"
   A blog site with development, Devops and SRE related posts. 
   There are some historical travel blog posts as well.
 url: "https://blog.mattcorr.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -49,13 +49,6 @@ lunr:
   search_within_pages: true
 
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-archives
-  - jekyll-include-cache
-
-whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
