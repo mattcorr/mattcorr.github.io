@@ -12,7 +12,7 @@ tags:
 ---
 Looking at the standard [documentation page for terraform output](https://www.terraform.io/docs/configuration/outputs.html) there are some samples for basic values and for how to access module values.
 
-This is great, but what if you had been following some of [my previous posts](https://www.intrepidintegration.com/tech/how-to-reference-data-objects-with-terraform/) about looping and want get some output for resources that created with the `for_each` command? How can the static structure of the examples shown work for a dynamically created list of resources?
+This is great, but what if you had been following some of [my previous posts](https://blog.mattcorr.com/tech/how-to-reference-data-objects-with-terraform/) about looping and want get some output for resources that created with the `for_each` command? How can the static structure of the examples shown work for a dynamically created list of resources?
 
 The standard syntax for an output statement is:
 
