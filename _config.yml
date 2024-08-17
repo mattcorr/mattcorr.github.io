@@ -30,6 +30,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 repository: "mattcorr.github.io"
 twitter_username: mattcorr
 github_username:  mattcorr
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "blog-mattcorr"
 
 # Build settings
 theme: minimal-mistakes-jekyll
