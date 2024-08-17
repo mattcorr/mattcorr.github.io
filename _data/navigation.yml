@@ -12,6 +12,6 @@ main:
     description: "Put something good here, hey?"
   - title: "About"
     url: /about/
-  - title: "TIL"
-    url: https://til.mattcorr.com
-    target: _blank
+  #- title: "TIL"  - while the site is down
+  #  url: https://til.mattcorr.com
+  #  target: _blank
