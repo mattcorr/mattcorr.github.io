@@ -8,7 +8,7 @@ categories:
   - Automation
 tags:
   - slack
-  - PowerShell
+  - powershell
   - azure
   - automation
 ---
