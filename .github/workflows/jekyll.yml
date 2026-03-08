@@ -5,6 +5,10 @@
 
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
+run-name: >-
+  ${{ github.event_name == 'pull_request'
+      && format('PR build for #{0}', github.event.pull_request.number)
+      || format('Deploy to Pages from {0}', github.ref_name) }}
 
 on:
   # Runs on pushes targeting the default branch
