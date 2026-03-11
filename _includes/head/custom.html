@@ -1,3 +1,10 @@
 <!-- start custom head snippets -->
+{% if site.fontawesome %}
+  {% if site.fontawesome.kit_url %}
+<script defer src="{{ site.fontawesome.kit_url }}" crossorigin="anonymous"></script>
+  {% elsif site.fontawesome.css_url %}
+<link rel="stylesheet" href="{{ site.fontawesome.css_url }}">
+  {% endif %}
+{% endif %}
 <script defer data-domain="blog.mattcorr.com" src="https://plausible.io/js/script.js"></script>
 <!-- end custom head snippets -->

@@ -38,6 +38,11 @@ comments:
 # Build settings
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dirt"
+# Optional Font Awesome override.
+# Use `kit_url` for the newest official icons, or `css_url` for a hosted stylesheet.
+fontawesome:
+  kit_url: "https://kit.fontawesome.com/739fe02a28.js"
+  css_url:
 site.locale: "en-GB" # Can't use en-AU as its not supported :(
 teaser : "https://mcblogfiles.blob.core.windows.net/images/general/defaulttease.jpg"
 
@@ -92,8 +97,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://github.com/mattcorr/resume/blob/main/matt-corr-resume.md"
     - label: "Today I learned"
-      icon: "fab fa-fw fa-graduation-cap"
-      url: "https://til.mattcor.com"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://til.mattcorr.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mattcorr"
