@@ -9,9 +9,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-    description: "Put something good here, hey?"
-  - title: "About"
-    url: /about/
   - title: "TIL"
     url: https://til.mattcorr.com
     target: _blank
+  - title: "About"
+    url: /about/
