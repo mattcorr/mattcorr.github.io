@@ -6,5 +6,21 @@
 <link rel="stylesheet" href="{{ site.fontawesome.css_url }}">
   {% endif %}
 {% endif %}
+<style>
+  .layout--home .page__hero--overlay {
+    min-height: 15rem;
+    background-position: center 35%;
+  }
+
+  .layout--home .page__hero--overlay .page__title {
+    display: none;
+  }
+
+  @media (max-width: 767px) {
+    .layout--home .page__hero--overlay {
+      min-height: 11rem;
+    }
+  }
+</style>
 <script defer data-domain="blog.mattcorr.com" src="https://plausible.io/js/script.js"></script>
 <!-- end custom head snippets -->
